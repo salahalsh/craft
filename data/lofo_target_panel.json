@@ -1,0 +1,55 @@
+{
+  "_comment": "50-target extended panel for LOFO experiment (Task 6, Supplementary Table S8).",
+  "_reference": "Jebril I.H., Alshehade S.A. et al. CRAFT. Journal of Biomedical Informatics (2026).",
+  "_lofo_results": {
+    "note": "All R2 values negative for all families and all encoding conditions.",
+    "families_in_lofo": ["Enzyme", "GPCR", "Ion Channel", "Kinase", "Nuclear Receptor"],
+    "conditions": ["ECFP4", "ECFP4+one-hot", "ECFP4+CRAFT", "ECFP4+ESM2", "ECFP4+Random"],
+    "results_table": {
+      "Enzyme":           {"n": 10, "ECFP4": -0.031, "one_hot": -0.015, "CRAFT": -0.095, "ESM2": -0.075, "random": -0.083},
+      "GPCR":             {"n": 10, "ECFP4": -0.422, "one_hot": -0.167, "CRAFT": -0.427, "ESM2": -0.576, "random": -0.608},
+      "Ion Channel":      {"n":  5, "ECFP4": -1.390, "one_hot": -1.478, "CRAFT": -1.178, "ESM2": -0.770, "random": -0.755},
+      "Kinase":           {"n": 15, "ECFP4": -0.325, "one_hot": -0.104, "CRAFT": -0.185, "ESM2": -0.075, "random": -0.267},
+      "Nuclear Receptor": {"n":  8, "ECFP4": -0.123, "one_hot": -0.032, "CRAFT": -0.167, "ESM2": -0.148, "random": -0.079}
+    }
+  },
+  "kinases": [
+    {"gene": "EGFR",   "uniprot": "P00533"}, {"gene": "ERBB2",  "uniprot": "P04626"},
+    {"gene": "MAPK14", "uniprot": "Q16539"}, {"gene": "SRC",    "uniprot": "P12931"},
+    {"gene": "MAPK1",  "uniprot": "P28482"}, {"gene": "BRAF",   "uniprot": "P15056"},
+    {"gene": "CDK2",   "uniprot": "P24941"}, {"gene": "ABL1",   "uniprot": "P00519"},
+    {"gene": "JAK2",   "uniprot": "O60674"}, {"gene": "KDR",    "uniprot": "P35968"},
+    {"gene": "ALK",    "uniprot": "Q9UM73"}, {"gene": "MET",    "uniprot": "P08581"},
+    {"gene": "AURKA",  "uniprot": "O14965"}, {"gene": "CHEK1",  "uniprot": "O14757"},
+    {"gene": "PLK1",   "uniprot": "P53350"}
+  ],
+  "gpcrs": [
+    {"gene": "ADRB1",  "uniprot": "P08588"}, {"gene": "ADRB2",  "uniprot": "P07550"},
+    {"gene": "DRD1",   "uniprot": "P21728"}, {"gene": "DRD2",   "uniprot": "P14416"},
+    {"gene": "HTR1A",  "uniprot": "P08908"}, {"gene": "HTR2A",  "uniprot": "P28223"},
+    {"gene": "OPRM1",  "uniprot": "P35372"}, {"gene": "OPRD1",  "uniprot": "P41143"},
+    {"gene": "CHRM1",  "uniprot": "P11229"}, {"gene": "CHRM2",  "uniprot": "P08172"}
+  ],
+  "enzymes": [
+    {"gene": "CA2",   "uniprot": "P00918"}, {"gene": "PTGS2", "uniprot": "P35354"},
+    {"gene": "ALOX5", "uniprot": "P09917"}, {"gene": "MAOA",  "uniprot": "P21397"},
+    {"gene": "MAOB",  "uniprot": "P27338"}, {"gene": "DHODH", "uniprot": "Q02127"},
+    {"gene": "PARP1", "uniprot": "P09874"}, {"gene": "LTA4H", "uniprot": "P09960"},
+    {"gene": "GSTA1", "uniprot": "P08263"}, {"gene": "HSD17B1","uniprot": "P14061"}
+  ],
+  "nuclear_receptors": [
+    {"gene": "ESR1",   "uniprot": "P03372"}, {"gene": "ESR2",   "uniprot": "Q92731"},
+    {"gene": "AR",     "uniprot": "P10275"}, {"gene": "PPARG",  "uniprot": "P37231"},
+    {"gene": "PPARA",  "uniprot": "Q07869"}, {"gene": "RARA",   "uniprot": "P10276"},
+    {"gene": "VDR",    "uniprot": "P11473"}, {"gene": "NR3C1",  "uniprot": "P04150"}
+  ],
+  "ion_channels": [
+    {"gene": "GABRA1", "uniprot": "P14867"}, {"gene": "GRIA2",  "uniprot": "P42262"},
+    {"gene": "SCN5A",  "uniprot": "Q14524"}, {"gene": "KCNH2",  "uniprot": "Q12809"},
+    {"gene": "CACNA1C","uniprot": "Q13936"}
+  ],
+  "proteases_excluded_from_lofo": [
+    {"gene": "MMP9",   "uniprot": "P14780", "note": "Excluded: insufficient family size (<3 members)"},
+    {"gene": "CASP3",  "uniprot": "P42574", "note": "Excluded: insufficient family size (<3 members)"}
+  ]
+}

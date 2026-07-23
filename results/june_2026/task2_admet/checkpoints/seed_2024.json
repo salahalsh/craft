@@ -1,0 +1,96 @@
+{
+  "baseline_ecfp": {
+    "val": {
+      "accuracy": 0.9216751918158568,
+      "f1": 0.0392156862745098,
+      "auc_roc": 0.7225209787381133,
+      "auprc": 0.17709993822923176
+    },
+    "test": {
+      "accuracy": 0.9235845040442742,
+      "f1": 0.052770448548812667,
+      "auc_roc": 0.7265697750315477,
+      "auprc": 0.18333150782929933
+    }
+  },
+  "craft_augmented": {
+    "val": {
+      "accuracy": 0.9279624893435635,
+      "f1": 0.2028301886792453,
+      "auc_roc": 0.8090864963852586,
+      "auprc": 0.34250687722532774
+    },
+    "test": {
+      "accuracy": 0.9290123456790124,
+      "f1": 0.18159509202453988,
+      "auc_roc": 0.8064109816470463,
+      "auprc": 0.3280556076289836
+    }
+  },
+  "delta": {
+    "test_auc_roc": 0.07984120661549854,
+    "craft_improves": true
+  },
+  "per_task": {
+    "NR-AR": {
+      "n_samples": 783,
+      "baseline_auc": 0.8161750530171583,
+      "craft_auc": 0.8265856950067476
+    },
+    "NR-AR-LBD": {
+      "n_samples": 783,
+      "baseline_auc": 0.8392651615759186,
+      "craft_auc": 0.8794599380256751
+    },
+    "NR-AhR": {
+      "n_samples": 783,
+      "baseline_auc": 0.720328082322302,
+      "craft_auc": 0.827582099980944
+    },
+    "NR-Aromatase": {
+      "n_samples": 783,
+      "baseline_auc": 0.6894206993995055,
+      "craft_auc": 0.7444895796538327
+    },
+    "NR-ER": {
+      "n_samples": 783,
+      "baseline_auc": 0.703176110583518,
+      "craft_auc": 0.7274453941120608
+    },
+    "NR-ER-LBD": {
+      "n_samples": 783,
+      "baseline_auc": 0.7705748552522745,
+      "craft_auc": 0.7751240694789082
+    },
+    "NR-PPAR-gamma": {
+      "n_samples": 783,
+      "baseline_auc": 0.6368577075098814,
+      "craft_auc": 0.7221124286341678
+    },
+    "SR-ARE": {
+      "n_samples": 783,
+      "baseline_auc": 0.707656317031317,
+      "craft_auc": 0.7241326147576148
+    },
+    "SR-ATAD5": {
+      "n_samples": 783,
+      "baseline_auc": 0.6996565656565656,
+      "craft_auc": 0.7790505050505051
+    },
+    "SR-HSE": {
+      "n_samples": 783,
+      "baseline_auc": 0.6714542767174346,
+      "craft_auc": 0.7509478825268299
+    },
+    "SR-MMP": {
+      "n_samples": 783,
+      "baseline_auc": 0.7711444308445533,
+      "craft_auc": 0.8041462668298653
+    },
+    "SR-p53": {
+      "n_samples": 783,
+      "baseline_auc": 0.7463577685569387,
+      "craft_auc": 0.8088520055325035
+    }
+  }
+}

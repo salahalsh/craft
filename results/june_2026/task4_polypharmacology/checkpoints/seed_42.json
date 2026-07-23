@@ -1,0 +1,35 @@
+{
+  "baseline_ecfp": {
+    "test": {
+      "accuracy": 0.562874251497006,
+      "f1": 0.6890971039182283,
+      "auc_roc": 0.557593693505771,
+      "auprc": 0.5901487842708101
+    }
+  },
+  "onehot_baseline": {
+    "test": {
+      "accuracy": 0.9293413173652695,
+      "f1": 0.9364908503767492,
+      "auc_roc": 0.976488985073935,
+      "auprc": 0.980840413028191
+    },
+    "n_onehot_features": 10
+  },
+  "craft_augmented": {
+    "test": {
+      "accuracy": 0.9365269461077844,
+      "f1": 0.9428263214670982,
+      "auc_roc": 0.977045235943077,
+      "auprc": 0.9801122706449021
+    }
+  },
+  "delta": {
+    "craft_vs_baseline_auc": 0.419451542437306,
+    "onehot_vs_baseline_auc": 0.41889529156816396,
+    "craft_vs_onehot_auc": 0.0005562508691420165,
+    "test_auprc": 0.38996348637409206,
+    "craft_improves_over_baseline": true,
+    "craft_improves_over_onehot": true
+  }
+}

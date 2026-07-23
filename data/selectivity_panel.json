@@ -1,0 +1,38 @@
+{
+  "_comment": "20-target selectivity panel used in Task 3 (Supplementary Table S3).",
+  "_reference": "Jebril I.H., Alshehade S.A. et al. CRAFT. Journal of Biomedical Informatics (2026).",
+  "_results": {
+    "within_family_tanimoto": 0.553,
+    "within_family_std":      0.209,
+    "between_family_tanimoto": 0.348,
+    "between_family_std":      0.106,
+    "separation":              0.205,
+    "mann_whitney_U":          7005.5,
+    "p_value":                 "1.80e-11",
+    "masked_p_value":          "2.95e-11"
+  },
+  "kinases": [
+    {"gene": "EGFR",  "uniprot": "P00533", "family": "Kinase", "subtype": "RTK"},
+    {"gene": "BRAF",  "uniprot": "P15056", "family": "Kinase", "subtype": "Ser/Thr"},
+    {"gene": "CDK2",  "uniprot": "P24941", "family": "Kinase", "subtype": "CDK"},
+    {"gene": "ABL1",  "uniprot": "P00519", "family": "Kinase", "subtype": "Non-receptor Tyr"},
+    {"gene": "JAK2",  "uniprot": "O60674", "family": "Kinase", "subtype": "Janus"},
+    {"gene": "KDR",   "uniprot": "P35968", "family": "Kinase", "subtype": "RTK"},
+    {"gene": "ALK",   "uniprot": "Q9UM73", "family": "Kinase", "subtype": "RTK"},
+    {"gene": "MET",   "uniprot": "P08581", "family": "Kinase", "subtype": "RTK"},
+    {"gene": "SRC",   "uniprot": "P12931", "family": "Kinase", "subtype": "Non-receptor Tyr"},
+    {"gene": "AURKA", "uniprot": "O14965", "family": "Kinase", "subtype": "Ser/Thr"}
+  ],
+  "gpcrs": [
+    {"gene": "ADRB1",  "uniprot": "P08588", "family": "GPCR", "subtype": "Adrenergic"},
+    {"gene": "ADRB2",  "uniprot": "P07550", "family": "GPCR", "subtype": "Adrenergic"},
+    {"gene": "DRD1",   "uniprot": "P21728", "family": "GPCR", "subtype": "Dopamine"},
+    {"gene": "DRD2",   "uniprot": "P14416", "family": "GPCR", "subtype": "Dopamine"},
+    {"gene": "HTR1A",  "uniprot": "P08908", "family": "GPCR", "subtype": "Serotonin"},
+    {"gene": "HTR2A",  "uniprot": "P28223", "family": "GPCR", "subtype": "Serotonin"},
+    {"gene": "OPRM1",  "uniprot": "P35372", "family": "GPCR", "subtype": "Opioid"},
+    {"gene": "OPRD1",  "uniprot": "P41143", "family": "GPCR", "subtype": "Opioid"},
+    {"gene": "CHRM1",  "uniprot": "P11229", "family": "GPCR", "subtype": "Muscarinic"},
+    {"gene": "CHRM2",  "uniprot": "P08172", "family": "GPCR", "subtype": "Muscarinic"}
+  ]
+}

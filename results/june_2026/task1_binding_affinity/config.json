@@ -1,0 +1,12 @@
+{
+  "task": "BindingAffinityTask",
+  "multi_seed": true,
+  "seeds": [
+    42,
+    123,
+    456,
+    789,
+    2024
+  ],
+  "n_seeds": 5
+}
