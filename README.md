@@ -130,6 +130,7 @@ If you use CRAFT in your research, please cite:
 ```
 Jebril I.H., Alshehade S.A., et al. CRAFT: A 256-Bit Biological Fingerprint
 for Drug Targets. Journal of Biomedical Informatics (2026). [under review]
+https://github.com/salahalsh/craft
 ```
 
 ---
