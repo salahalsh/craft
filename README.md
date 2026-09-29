@@ -3,12 +3,7 @@
 **Context-Rich Annotated Fingerprint for Targets**
 
 This repository contains the CRAFT fingerprint schema, encoding engine, and
-validation pipeline accompanying the manuscript:
-
-> Jebril I.H., Alshehade S.A. et al. "CRAFT: A 256-Bit Biological Fingerprint
-> for Drug Targets Encoding Subcellular Context, Signaling Mechanism, and
-> Binding Pocket Architecture for Multi-Target Drug Discovery."
-> *Journal of Biomedical Informatics* (2026, under review).
+validation pipeline.
 
 ---
 
@@ -125,11 +120,11 @@ paper and in `craft/schema.py`.
 
 ## Citation
 
-If you use CRAFT in your research, please cite:
+If you use CRAFT in your research, please cite the software:
 
 ```
-Jebril I.H., Alshehade S.A., et al. CRAFT: A 256-Bit Biological Fingerprint
-for Drug Targets. Journal of Biomedical Informatics (2026). [under review]
+Jebril I.H., Alshehade S.A., et al. CRAFT: Context-Rich Annotated Fingerprint
+for Targets (version 0.1) [Software]. 2026.
 https://github.com/salahalsh/craft
 ```
 
