@@ -19,14 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-Third-party data sources retain their own licences and terms of use:
-  UniProt        https://www.uniprot.org/help/license          (CC BY 4.0)
-  IUPHAR/BPS     https://www.guidetopharmacology.org/about.jsp (CC BY-SA 4.0)
-  ChEMBL         https://chembl.gitbook.io/chembl-interface-documentation
-                                                                (CC BY-SA 3.0)
-  RCSB PDB       https://www.rcsb.org/pages/usage-policy        (CC0 1.0)
-  Tox21 /        https://moleculenet.org/
-  MoleculeNet
