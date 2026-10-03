@@ -1,0 +1,14 @@
+{
+  "chembl_id": "CHEMBL211",
+  "uniprot_id": "P08172",
+  "gene_name": "CHRM2",
+  "target_name": "Muscarinic acetylcholine receptor M2",
+  "target_type": "SINGLE PROTEIN",
+  "organism": "Homo sapiens",
+  "target_class_l1": "",
+  "target_class_l2": "",
+  "approved_drug_count": 0,
+  "bioactivity_count": 0,
+  "success": true,
+  "error": ""
+}

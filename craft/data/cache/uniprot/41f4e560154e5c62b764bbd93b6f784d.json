@@ -1,0 +1,46 @@
+{
+  "uniprot_id": "P00374",
+  "protein_name": "Dihydrofolate reductase",
+  "gene_name": "DHFR",
+  "organism": "Homo sapiens",
+  "subcellular_locations": [
+    "Mitochondrion",
+    "Cytoplasm",
+    "Nucleus"
+  ],
+  "transmembrane_count": 0,
+  "topology_description": "soluble",
+  "signal_peptide": false,
+  "gpi_anchor": false,
+  "protein_families": [
+    "Belongs to the dihydrofolate reductase family"
+  ],
+  "keywords": [
+    "3D-structure",
+    "Alternative splicing",
+    "Cytoplasm",
+    "Disease variant",
+    "Methotrexate resistance",
+    "Mitochondrion",
+    "NADP",
+    "Nucleus",
+    "One-carbon metabolism",
+    "Oxidoreductase",
+    "Proteomics identification",
+    "Reference proteome",
+    "RNA-binding",
+    "Ubl conjugation"
+  ],
+  "go_cellular_component": [
+    "cytoplasm",
+    "cytosol",
+    "mitochondrion",
+    "nucleus",
+    "replication fork"
+  ],
+  "tissue_specificity": "Widely expressed in fetal and adult tissues, including throughout the fetal and adult brains and whole blood. Expression is higher in the adult brain than in the fetal brain",
+  "function_description": "Catalyzes the reduction of 7,8-dihydrofolate (DHF) to 5,6,7,8-tetrahydrofolate in a NADPH-dependent manner (PubMed:12096917, PubMed:15039552, PubMed:17569517, PubMed:19196009, PubMed:19478082, PubMed:21876184, PubMed:9719595). Key enzyme in folate metabolism. Contributes to the nuclear and mitochondrial de novo thymidylate biosynthesis pathway (PubMed:21876188, PubMed:22235121). Catalyzes an essential reaction for de novo glycine and purine synthesis, and for DNA precursor synthesis. Binds its own mRNA and that of DHFR2",
+  "sequence_length": 187,
+  "success": true,
+  "error": ""
+}

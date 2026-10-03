@@ -1,0 +1,51 @@
+{
+  "uniprot_id": "Q16236",
+  "protein_name": "Nuclear factor erythroid 2-related factor 2",
+  "gene_name": "NFE2L2",
+  "organism": "Homo sapiens",
+  "subcellular_locations": [
+    "Cytoplasm, cytosol",
+    "Nucleus"
+  ],
+  "transmembrane_count": 0,
+  "topology_description": "soluble",
+  "signal_peptide": false,
+  "gpi_anchor": false,
+  "protein_families": [
+    "Belongs to the bZIP family. CNC subfamily"
+  ],
+  "keywords": [
+    "3D-structure",
+    "Acetylation",
+    "Activator",
+    "Alternative splicing",
+    "Cytoplasm",
+    "Disease variant",
+    "DNA-binding",
+    "Glycation",
+    "Glycoprotein",
+    "Host-virus interaction",
+    "Nucleus",
+    "Phosphoprotein",
+    "Proteomics identification",
+    "Reference proteome",
+    "Transcription",
+    "Transcription regulation",
+    "Ubl conjugation"
+  ],
+  "go_cellular_component": [
+    "chromatin",
+    "cytoplasm",
+    "cytosol",
+    "mediator complex",
+    "nucleoplasm",
+    "nucleus",
+    "protein-DNA complex",
+    "RNA polymerase II transcription regulator complex"
+  ],
+  "tissue_specificity": "Widely expressed. Highest expression in adult muscle, kidney, lung, liver and in fetal muscle",
+  "function_description": "Transcription factor that plays a key role in the response to oxidative stress: binds to antioxidant response (ARE) elements present in the promoter region of many cytoprotective genes, such as phase 2 detoxifying enzymes, and promotes their expression, thereby neutralizing reactive electrophiles (PubMed:11035812, PubMed:19489739, PubMed:29018201, PubMed:31398338). In normal conditions, ubiquitinated and degraded in the cytoplasm by the BCR(KEAP1) complex (PubMed:11035812, PubMed:15601839, PubMed:29018201). In response to oxidative stress, electrophile metabolites inhibit activity of the BCR(KEAP1) complex, promoting nuclear accumulation of NFE2L2/NRF2, heterodimerization with one of the small Maf proteins and binding to ARE elements of cytoprotective target genes (PubMed:19489739, PubMed:29590092). The NFE2L2/NRF2 pathway is also activated in response to selective autophagy: autophagy promotes interaction between KEAP1 and SQSTM1/p62 and subsequent inactivation of the BCR(KEAP1) complex, leading to NFE2L2/NRF2 nuclear accumulation and expression of cytoprotective genes (PubMed:20452972). The NFE2L2/NRF2 pathway is also activated during the unfolded protein response (UPR), contributing to redox homeostasis and cell survival following endoplasmic reticulum stress (By similarity). May also be involved in the transcriptional activation of genes of the beta-globin cluster by mediating enhancer activity of hypersensitive site 2 of the beta-globin locus control region (PubMed:7937919). Also plays an important role in the regulation of the innate immune response and antiviral cytosolic DNA sensing. It is a critical regulator of the innate immune response and survival during sepsis by maintaining redox homeostasis and restraint of the dysregulation of pro-inflammatory signaling pathways like MyD88-dependent and -independent and TNF signaling (By similarity). Suppresses macrophage inflammatory response by blocking pro-inflammatory cytokine transcription and the induction of IL6 (By similarity). Binds to the proximity of pro-inflammatory genes in macrophages and inhibits RNA Pol II recruitment. The inhibition is independent of the NRF2-binding motif and reactive oxygen species level (By similarity). Represses antiviral cytosolic DNA sensing by suppressing the expression of the adapter protein STING1 and decreasing responsiveness to STING1 agonists while increasing susceptibility to infection with DNA viruses (PubMed:30158636). Once activated, limits the release of pro-inflammatory cytokines in response to human coronavirus SARS-CoV-2 infection and to virus-derived ligands through a mechanism that involves inhibition of IRF3 dimerization. Also inhibits both SARS-CoV-2 replication, as well as the replication of several other pathogenic viruses including Herpes Simplex Virus-1 and-2, Vaccinia virus, and Zika virus through a type I interferon (IFN)-independent mechanism (PubMed:33009401)",
+  "sequence_length": 605,
+  "success": true,
+  "error": ""
+}

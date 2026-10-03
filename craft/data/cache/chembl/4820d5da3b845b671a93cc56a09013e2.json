@@ -1,0 +1,14 @@
+{
+  "chembl_id": "CHEMBL240",
+  "uniprot_id": "Q12809",
+  "gene_name": "KCNH2",
+  "target_name": "Voltage-gated inwardly rectifying potassium channel KCNH2",
+  "target_type": "SINGLE PROTEIN",
+  "organism": "Homo sapiens",
+  "target_class_l1": "",
+  "target_class_l2": "",
+  "approved_drug_count": 0,
+  "bioactivity_count": 0,
+  "success": true,
+  "error": ""
+}

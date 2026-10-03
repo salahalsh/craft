@@ -1,0 +1,53 @@
+{
+  "uniprot_id": "P11229",
+  "protein_name": "Muscarinic acetylcholine receptor M1",
+  "gene_name": "CHRM1",
+  "organism": "Homo sapiens",
+  "subcellular_locations": [
+    "Cell membrane",
+    "Multi-pass membrane protein",
+    "Postsynaptic cell membrane"
+  ],
+  "transmembrane_count": 7,
+  "topology_description": "7TM",
+  "signal_peptide": false,
+  "gpi_anchor": false,
+  "protein_families": [
+    "Belongs to the G protein-coupled receptor 1 family. Muscarinic acetylcholine receptor subfamily. CHRM1 sub-subfamily"
+  ],
+  "keywords": [
+    "3D-structure",
+    "Alternative splicing",
+    "Cell membrane",
+    "Disulfide bond",
+    "G protein-coupled receptor",
+    "Glycoprotein",
+    "Membrane",
+    "Phosphoprotein",
+    "Postsynaptic cell membrane",
+    "Proteomics identification",
+    "Receptor",
+    "Reference proteome",
+    "Synapse",
+    "Transducer",
+    "Transmembrane",
+    "Transmembrane helix"
+  ],
+  "go_cellular_component": [
+    "axon terminus",
+    "cholinergic synapse",
+    "dendrite",
+    "glutamatergic synapse",
+    "membrane",
+    "plasma membrane",
+    "postsynaptic density membrane",
+    "presynaptic membrane",
+    "Schaffer collateral - CA1 synapse",
+    "synapse"
+  ],
+  "tissue_specificity": "",
+  "function_description": "The muscarinic acetylcholine receptor mediates various cellular responses, including inhibition of adenylate cyclase, breakdown of phosphoinositides and modulation of potassium channels through the action of G proteins. Primary transducing effect is Pi turnover",
+  "sequence_length": 460,
+  "success": true,
+  "error": ""
+}

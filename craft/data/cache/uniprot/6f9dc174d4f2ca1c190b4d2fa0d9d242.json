@@ -1,0 +1,44 @@
+{
+  "uniprot_id": "P42336",
+  "protein_name": "Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",
+  "gene_name": "PIK3CA",
+  "organism": "Homo sapiens",
+  "subcellular_locations": [],
+  "transmembrane_count": 0,
+  "topology_description": "soluble",
+  "signal_peptide": false,
+  "gpi_anchor": false,
+  "protein_families": [
+    "Belongs to the PI3/PI4-kinase family"
+  ],
+  "keywords": [
+    "3D-structure",
+    "Angiogenesis",
+    "ATP-binding",
+    "Disease variant",
+    "Kinase",
+    "Lipid metabolism",
+    "Nucleotide-binding",
+    "Phagocytosis",
+    "Proteomics identification",
+    "Proto-oncogene",
+    "Reference proteome",
+    "Serine/threonine-protein kinase",
+    "Transferase"
+  ],
+  "go_cellular_component": [
+    "cytosol",
+    "intercalated disc",
+    "lamellipodium",
+    "perinuclear region of cytoplasm",
+    "phosphatidylinositol 3-kinase complex",
+    "phosphatidylinositol 3-kinase complex, class IA",
+    "phosphatidylinositol 3-kinase complex, class IB",
+    "plasma membrane"
+  ],
+  "tissue_specificity": "",
+  "function_description": "Phosphoinositide-3-kinase (PI3K) phosphorylates phosphatidylinositol (PI) and its phosphorylated derivatives at position 3 of the inositol ring to produce 3-phosphoinositides (PubMed:15135396, PubMed:23936502, PubMed:28676499). Uses ATP and PtdIns(4,5)P2 (phosphatidylinositol 4,5-bisphosphate) to generate phosphatidylinositol 3,4,5-trisphosphate (PIP3) (PubMed:15135396, PubMed:28676499). PIP3 plays a key role by recruiting PH domain-containing proteins to the membrane, including AKT1 and PDPK1, activating signaling cascades involved in cell growth, survival, proliferation, motility and morphology. Participates in cellular signaling in response to various growth factors. Involved in the activation of AKT1 upon stimulation by receptor tyrosine kinases ligands such as EGF, insulin, IGF1, VEGFA and PDGF. Involved in signaling via insulin-receptor substrate (IRS) proteins. Essential in endothelial cell migration during vascular development through VEGFA signaling, possibly by regulating RhoA activity. Required for lymphatic vasculature development, possibly by binding to RAS and by activation by EGF and FGF2, but not by PDGF. Regulates invadopodia formation through the PDPK1-AKT1 pathway. Participates in cardiomyogenesis in embryonic stem cells through a AKT1 pathway. Participates in vasculogenesis in embryonic stem cells through PDK1 and protein kinase C pathway. In addition to its lipid kinase activity, it displays a serine-protein kinase activity that results in the autophosphorylation of the p85alpha regulatory subunit as well as phosphorylation of other proteins such as 4EBP1, H-Ras, the IL-3 beta c receptor and possibly others (PubMed:23936502, PubMed:28676499). Plays a role in the positive regulation of phagocytosis and pinocytosis (By similarity)",
+  "sequence_length": 1068,
+  "success": true,
+  "error": ""
+}

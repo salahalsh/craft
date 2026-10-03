@@ -1,0 +1,48 @@
+{
+  "uniprot_id": "P11511",
+  "protein_name": "Aromatase",
+  "gene_name": "CYP19A1",
+  "organism": "Homo sapiens",
+  "subcellular_locations": [
+    "Endoplasmic reticulum membrane",
+    "Multi-pass membrane protein",
+    "Microsome membrane"
+  ],
+  "transmembrane_count": 2,
+  "topology_description": "multi-pass",
+  "signal_peptide": false,
+  "gpi_anchor": false,
+  "protein_families": [
+    "Belongs to the cytochrome P450 family"
+  ],
+  "keywords": [
+    "3D-structure",
+    "Alternative splicing",
+    "Direct protein sequencing",
+    "Disease variant",
+    "Endoplasmic reticulum",
+    "Heme",
+    "Iron",
+    "Lipid metabolism",
+    "Membrane",
+    "Metal-binding",
+    "Microsome",
+    "Monooxygenase",
+    "Oxidoreductase",
+    "Proteomics identification",
+    "Pseudohermaphroditism",
+    "Reference proteome",
+    "Transmembrane",
+    "Transmembrane helix"
+  ],
+  "go_cellular_component": [
+    "endoplasmic reticulum",
+    "endoplasmic reticulum membrane",
+    "membrane"
+  ],
+  "tissue_specificity": "Widely expressed, including in adult and fetal brain, placenta, skin fibroblasts, adipose tissue and gonads",
+  "function_description": "A cytochrome P450 monooxygenase that catalyzes the conversion of C19 androgens, androst-4-ene-3,17-dione (androstenedione) and testosterone to the C18 estrogens, estrone and estradiol, respectively (PubMed:27702664, PubMed:2848247). Catalyzes three successive oxidations of C19 androgens: two conventional oxidations at C19 yielding 19-hydroxy and 19-oxo/19-aldehyde derivatives, followed by a third oxidative aromatization step that involves C1-beta hydrogen abstraction combined with cleavage of the C10-C19 bond to yield a phenolic A ring and formic acid (PubMed:20385561). Alternatively, the third oxidative reaction yields a 19-norsteroid and formic acid. Converts dihydrotestosterone to delta1,10-dehydro 19-nordihydrotestosterone and may play a role in homeostasis of this potent androgen (PubMed:22773874). Also displays 2-hydroxylase activity toward estrone (PubMed:22773874). Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (CPR; NADPH-ferrihemoprotein reductase) (PubMed:20385561, PubMed:22773874)",
+  "sequence_length": 503,
+  "success": true,
+  "error": ""
+}

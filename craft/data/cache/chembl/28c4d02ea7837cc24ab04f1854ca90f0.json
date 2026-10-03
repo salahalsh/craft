@@ -1,0 +1,14 @@
+{
+  "chembl_id": "CHEMBL1827",
+  "uniprot_id": "O76074",
+  "gene_name": "PDE5A",
+  "target_name": "cGMP-specific 3',5'-cyclic phosphodiesterase",
+  "target_type": "SINGLE PROTEIN",
+  "organism": "Homo sapiens",
+  "target_class_l1": "",
+  "target_class_l2": "",
+  "approved_drug_count": 0,
+  "bioactivity_count": 0,
+  "success": true,
+  "error": ""
+}

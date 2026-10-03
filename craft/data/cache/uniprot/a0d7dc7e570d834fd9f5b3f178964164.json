@@ -1,0 +1,54 @@
+{
+  "uniprot_id": "Q12809",
+  "protein_name": "Voltage-gated inwardly rectifying potassium channel KCNH2",
+  "gene_name": "KCNH2",
+  "organism": "Homo sapiens",
+  "subcellular_locations": [
+    "Cell membrane",
+    "Multi-pass membrane protein"
+  ],
+  "transmembrane_count": 6,
+  "topology_description": "multi-pass",
+  "signal_peptide": false,
+  "gpi_anchor": false,
+  "protein_families": [
+    "Belongs to the potassium channel family. H (Eag) (TC 1.A.1.20) subfamily. Kv11.1/KCNH2 sub-subfamily"
+  ],
+  "keywords": [
+    "3D-structure",
+    "Alternative splicing",
+    "Cell membrane",
+    "Coiled coil",
+    "Deafness",
+    "Disease variant",
+    "Glycoprotein",
+    "Ion channel",
+    "Ion transport",
+    "Long QT syndrome",
+    "Membrane",
+    "Methylation",
+    "Phosphoprotein",
+    "Potassium",
+    "Potassium channel",
+    "Potassium transport",
+    "Proteomics identification",
+    "Reference proteome",
+    "Short QT syndrome",
+    "Transmembrane",
+    "Transmembrane helix",
+    "Transport",
+    "Voltage-gated channel"
+  ],
+  "go_cellular_component": [
+    "cell surface",
+    "inward rectifier potassium channel complex",
+    "perinuclear region of cytoplasm",
+    "plasma membrane",
+    "voltage-gated potassium channel complex"
+  ],
+  "tissue_specificity": "Highly expressed in heart and brain. Isoforms USO are frequently overexpressed in cancer cells",
+  "function_description": "Pore-forming (alpha) subunit of voltage-gated inwardly rectifying potassium channel (PubMed:10219239, PubMed:10753933, PubMed:10790218, PubMed:10837251, PubMed:11997281, PubMed:12063277, PubMed:18559421, PubMed:22314138, PubMed:22359612, PubMed:26363003, PubMed:27916661, PubMed:9230439, PubMed:9351446, PubMed:9765245). Channel properties are modulated by cAMP and subunit assembly (PubMed:10837251). Characterized by unusual gating kinetics by producing relatively small outward currents during membrane depolarization and large inward currents during subsequent repolarization which reflect a rapid inactivation during depolarization and quick recovery from inactivation but slow deactivation (closing) during repolarization (PubMed:10219239, PubMed:10753933, PubMed:10790218, PubMed:10837251, PubMed:11997281, PubMed:12063277, PubMed:18559421, PubMed:22314138, PubMed:22359612, PubMed:26363003, PubMed:27916661, PubMed:9230439, PubMed:9351446, PubMed:9765245). Forms a stable complex with KCNE1 or KCNE2, and that this heteromultimerization regulates inward rectifier potassium channel activity (PubMed:10219239, PubMed:9230439) Has no inward rectifier potassium channel activity by itself, but modulates channel characteristics by forming heterotetramers with other isoforms which are retained intracellularly and undergo ubiquitin-dependent degradation Has no inward rectifier potassium channel activity by itself, but modulates channel characteristics by forming heterotetramers with other isoforms which are retained intracellularly and undergo ubiquitin-dependent degradation",
+  "sequence_length": 1159,
+  "success": true,
+  "error": ""
+}

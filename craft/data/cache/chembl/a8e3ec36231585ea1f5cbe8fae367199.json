@@ -1,0 +1,14 @@
+{
+  "chembl_id": "CHEMBL202",
+  "uniprot_id": "P00374",
+  "gene_name": "DHFR",
+  "target_name": "Dihydrofolate reductase",
+  "target_type": "SINGLE PROTEIN",
+  "organism": "Homo sapiens",
+  "target_class_l1": "",
+  "target_class_l2": "",
+  "approved_drug_count": 0,
+  "bioactivity_count": 0,
+  "success": true,
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "chembl_id": "CHEMBL2034",
+  "uniprot_id": "P04150",
+  "gene_name": "NR3C1",
+  "target_name": "Glucocorticoid receptor",
+  "target_type": "SINGLE PROTEIN",
+  "organism": "Homo sapiens",
+  "target_class_l1": "",
+  "target_class_l2": "",
+  "approved_drug_count": 0,
+  "bioactivity_count": 0,
+  "success": true,
+  "error": ""
+}

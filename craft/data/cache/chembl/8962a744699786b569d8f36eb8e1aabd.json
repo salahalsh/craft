@@ -1,0 +1,14 @@
+{
+  "chembl_id": "CHEMBL215",
+  "uniprot_id": "P09917",
+  "gene_name": "ALOX5",
+  "target_name": "Polyunsaturated fatty acid 5-lipoxygenase",
+  "target_type": "SINGLE PROTEIN",
+  "organism": "Homo sapiens",
+  "target_class_l1": "",
+  "target_class_l2": "",
+  "approved_drug_count": 0,
+  "bioactivity_count": 0,
+  "success": true,
+  "error": ""
+}

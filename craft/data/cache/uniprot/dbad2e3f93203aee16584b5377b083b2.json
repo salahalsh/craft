@@ -1,0 +1,50 @@
+{
+  "uniprot_id": "P29274",
+  "protein_name": "Adenosine receptor A2a",
+  "gene_name": "ADORA2A",
+  "organism": "Homo sapiens",
+  "subcellular_locations": [
+    "Cell membrane",
+    "Multi-pass membrane protein"
+  ],
+  "transmembrane_count": 7,
+  "topology_description": "7TM",
+  "signal_peptide": false,
+  "gpi_anchor": false,
+  "protein_families": [
+    "Belongs to the G protein-coupled receptor 1 family"
+  ],
+  "keywords": [
+    "3D-structure",
+    "Cell membrane",
+    "Disulfide bond",
+    "G protein-coupled receptor",
+    "Glycoprotein",
+    "Membrane",
+    "Proteomics identification",
+    "Receptor",
+    "Reference proteome",
+    "Transducer",
+    "Transmembrane",
+    "Transmembrane helix",
+    "Ubl conjugation"
+  ],
+  "go_cellular_component": [
+    "asymmetric synapse",
+    "axolemma",
+    "dendrite",
+    "glutamatergic synapse",
+    "intermediate filament",
+    "membrane",
+    "neuronal cell body",
+    "plasma membrane",
+    "postsynaptic membrane",
+    "presynaptic active zone",
+    "presynaptic membrane"
+  ],
+  "tissue_specificity": "",
+  "function_description": "Receptor for adenosine (By similarity). The activity of this receptor is mediated by G proteins which activate adenylyl cyclase (By similarity)",
+  "sequence_length": 412,
+  "success": true,
+  "error": ""
+}

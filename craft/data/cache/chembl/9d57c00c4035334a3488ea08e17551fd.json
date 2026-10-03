@@ -1,0 +1,14 @@
+{
+  "chembl_id": "CHEMBL239",
+  "uniprot_id": "Q07869",
+  "gene_name": "PPARA",
+  "target_name": "Peroxisome proliferator-activated receptor alpha",
+  "target_type": "SINGLE PROTEIN",
+  "organism": "Homo sapiens",
+  "target_class_l1": "",
+  "target_class_l2": "",
+  "approved_drug_count": 0,
+  "bioactivity_count": 0,
+  "success": true,
+  "error": ""
+}

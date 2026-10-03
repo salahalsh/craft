@@ -1,0 +1,56 @@
+{
+  "uniprot_id": "P04035",
+  "protein_name": "3-hydroxy-3-methylglutaryl-coenzyme A reductase",
+  "gene_name": "HMGCR",
+  "organism": "Homo sapiens",
+  "subcellular_locations": [
+    "Endoplasmic reticulum membrane",
+    "Multi-pass membrane protein",
+    "Peroxisome membrane"
+  ],
+  "transmembrane_count": 8,
+  "topology_description": "multi-pass",
+  "signal_peptide": false,
+  "gpi_anchor": false,
+  "protein_families": [
+    "Belongs to the HMG-CoA reductase family"
+  ],
+  "keywords": [
+    "3D-structure",
+    "Alternative splicing",
+    "Cholesterol biosynthesis",
+    "Cholesterol metabolism",
+    "Disease variant",
+    "Endoplasmic reticulum",
+    "Glycoprotein",
+    "Isopeptide bond",
+    "Limb-girdle muscular dystrophy",
+    "Lipid biosynthesis",
+    "Lipid metabolism",
+    "Membrane",
+    "NADP",
+    "Oxidoreductase",
+    "Peroxisome",
+    "Phosphoprotein",
+    "Proteomics identification",
+    "Reference proteome",
+    "Steroid biosynthesis",
+    "Steroid metabolism",
+    "Sterol biosynthesis",
+    "Sterol metabolism",
+    "Transmembrane",
+    "Transmembrane helix",
+    "Ubl conjugation"
+  ],
+  "go_cellular_component": [
+    "cytoplasmic side of endoplasmic reticulum membrane",
+    "endoplasmic reticulum",
+    "endoplasmic reticulum membrane",
+    "peroxisomal membrane"
+  ],
+  "tissue_specificity": "Ubiquitously expressed with the highest levels in the cerebellum, fetal brain, testis, skin and adrenal gland Detected in the cerebellum, fetal brain, testis and adrenal gland Low abundance except in skin, esophagus, and uterine cervix",
+  "function_description": "Catalyzes the conversion of (3S)-hydroxy-3-methylglutaryl-CoA (HMG-CoA) to mevalonic acid, the rate-limiting step in the synthesis of cholesterol and other isoprenoids, thus plays a critical role in cellular cholesterol homeostasis (PubMed:21357570, PubMed:2991281, PubMed:36745799, PubMed:6995544). HMGCR is the main target of statins, a class of cholesterol-lowering drugs (PubMed:11349148, PubMed:18540668, PubMed:36745799)",
+  "sequence_length": 888,
+  "success": true,
+  "error": ""
+}

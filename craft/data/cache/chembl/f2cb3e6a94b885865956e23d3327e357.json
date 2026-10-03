@@ -1,0 +1,14 @@
+{
+  "chembl_id": "CHEMBL4005",
+  "uniprot_id": "P42336",
+  "gene_name": "PIK3CA",
+  "target_name": "Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",
+  "target_type": "SINGLE PROTEIN",
+  "organism": "Homo sapiens",
+  "target_class_l1": "",
+  "target_class_l2": "",
+  "approved_drug_count": 0,
+  "bioactivity_count": 0,
+  "success": true,
+  "error": ""
+}

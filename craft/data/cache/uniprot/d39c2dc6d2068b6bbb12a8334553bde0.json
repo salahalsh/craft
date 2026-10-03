@@ -1,0 +1,60 @@
+{
+  "uniprot_id": "P14867",
+  "protein_name": "Gamma-aminobutyric acid receptor subunit alpha-1",
+  "gene_name": "GABRA1",
+  "organism": "Homo sapiens",
+  "subcellular_locations": [
+    "Postsynaptic cell membrane",
+    "Multi-pass membrane protein",
+    "Cell membrane",
+    "Cytoplasmic vesicle membrane"
+  ],
+  "transmembrane_count": 4,
+  "topology_description": "multi-pass",
+  "signal_peptide": true,
+  "gpi_anchor": false,
+  "protein_families": [
+    "Belongs to the ligand-gated ion channel (TC 1.A.9) family. Gamma-aminobutyric acid receptor (TC 1.A.9.5) subfamily. GABRA1 sub-subfamily"
+  ],
+  "keywords": [
+    "3D-structure",
+    "Cell membrane",
+    "Chloride",
+    "Chloride channel",
+    "Cytoplasmic vesicle",
+    "Disease variant",
+    "Disulfide bond",
+    "Epilepsy",
+    "Glycoprotein",
+    "Ion channel",
+    "Ion transport",
+    "Ligand-gated ion channel",
+    "Membrane",
+    "Postsynaptic cell membrane",
+    "Proteomics identification",
+    "Receptor",
+    "Reference proteome",
+    "Signal",
+    "Synapse",
+    "Transmembrane",
+    "Transmembrane helix",
+    "Transport"
+  ],
+  "go_cellular_component": [
+    "cytoplasmic vesicle membrane",
+    "dendrite membrane",
+    "dendritic spine",
+    "GABA receptor complex",
+    "GABA-A receptor complex",
+    "GABA-ergic synapse",
+    "plasma membrane",
+    "postsynapse",
+    "postsynaptic membrane",
+    "postsynaptic specialization membrane"
+  ],
+  "tissue_specificity": "",
+  "function_description": "Alpha subunit of the heteropentameric ligand-gated chloride channel gated by Gamma-aminobutyric acid (GABA), a major inhibitory neurotransmitter in the brain (PubMed:23909897, PubMed:25489750, PubMed:29950725, PubMed:30602789). GABA-gated chloride channels, also named GABA(A) receptors (GABAAR), consist of five subunits arranged around a central pore and contain GABA active binding site(s) located at the alpha and beta subunit interface(s) (PubMed:29950725, PubMed:30602789). When activated by GABA, GABAARs selectively allow the flow of chloride anions across the cell membrane down their electrochemical gradient (PubMed:23909897, PubMed:29950725, PubMed:30602789). Alpha-1/GABRA1-containing GABAARs are largely synaptic (By similarity). Chloride influx into the postsynaptic neuron following GABAAR opening decreases the neuron ability to generate a new action potential, thereby reducing nerve transmission (By similarity). GABAARs containing alpha-1 and beta-2 or -3 subunits exhibit synaptogenic activity; the gamma-2 subunit being necessary but not sufficient to induce rapid synaptic contacts formation (PubMed:23909897, PubMed:25489750). GABAARs function also as histamine receptor where histamine binds at the interface of two neighboring beta subunits and potentiates GABA response (By similarity). GABAARs containing alpha, beta and epsilon subunits also permit spontaneous chloride channel activity while preserving the structural information required for GABA-gated openings (By similarity). Alpha-1-mediated plasticity in the orbitofrontal cortex regulates context-dependent action selection (By similarity). Together with rho subunits, may also control neuronal and glial GABAergic transmission in the cerebellum (By similarity)",
+  "sequence_length": 456,
+  "success": true,
+  "error": ""
+}

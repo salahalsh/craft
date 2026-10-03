@@ -1,0 +1,51 @@
+{
+  "uniprot_id": "Q9UM73",
+  "protein_name": "ALK tyrosine kinase receptor",
+  "gene_name": "ALK",
+  "organism": "Homo sapiens",
+  "subcellular_locations": [
+    "Cell membrane",
+    "Single-pass type I membrane protein"
+  ],
+  "transmembrane_count": 1,
+  "topology_description": "single-pass",
+  "signal_peptide": true,
+  "gpi_anchor": false,
+  "protein_families": [
+    "Belongs to the protein kinase superfamily. Tyr protein kinase family. Insulin receptor subfamily"
+  ],
+  "keywords": [
+    "3D-structure",
+    "ATP-binding",
+    "Cell membrane",
+    "Chromosomal rearrangement",
+    "Disease variant",
+    "Disulfide bond",
+    "Glycoprotein",
+    "Kinase",
+    "Membrane",
+    "Nucleotide-binding",
+    "Phosphoprotein",
+    "Proteomics identification",
+    "Proto-oncogene",
+    "Receptor",
+    "Reference proteome",
+    "Repeat",
+    "Signal",
+    "Transferase",
+    "Transmembrane",
+    "Transmembrane helix",
+    "Tyrosine-protein kinase"
+  ],
+  "go_cellular_component": [
+    "extracellular exosome",
+    "plasma membrane",
+    "protein-containing complex",
+    "signaling receptor complex"
+  ],
+  "tissue_specificity": "Expressed in brain and CNS. Also expressed in the small intestine and testis, but not in normal lymphoid cells",
+  "function_description": "Neuronal receptor tyrosine kinase that is essentially and transiently expressed in specific regions of the central and peripheral nervous systems and plays an important role in the genesis and differentiation of the nervous system (PubMed:11121404, PubMed:11387242, PubMed:16317043, PubMed:17274988, PubMed:30061385, PubMed:34646012, PubMed:34819673). Also acts as a key thinness protein involved in the resistance to weight gain: in hypothalamic neurons, controls energy expenditure acting as a negative regulator of white adipose tissue lipolysis and sympathetic tone to fine-tune energy homeostasis (By similarity). Following activation by ALKAL2 ligand at the cell surface, transduces an extracellular signal into an intracellular response (PubMed:30061385, PubMed:33411331, PubMed:34646012, PubMed:34819673). In contrast, ALKAL1 is not a potent physiological ligand for ALK (PubMed:34646012). Ligand-binding to the extracellular domain induces tyrosine kinase activation, leading to activation of the mitogen-activated protein kinase (MAPK) pathway (PubMed:34819673). Phosphorylates almost exclusively at the first tyrosine of the Y-x-x-x-Y-Y motif (PubMed:15226403, PubMed:16878150). Induces tyrosine phosphorylation of CBL, FRS2, IRS1 and SHC1, as well as of the MAP kinases MAPK1/ERK2 and MAPK3/ERK1 (PubMed:15226403, PubMed:16878150). ALK activation may also be regulated by pleiotrophin (PTN) and midkine (MDK) (PubMed:11278720, PubMed:11809760, PubMed:12107166, PubMed:12122009). PTN-binding induces MAPK pathway activation, which is important for the anti-apoptotic signaling of PTN and regulation of cell proliferation (PubMed:11278720, PubMed:11809760, PubMed:12107166). MDK-binding induces phosphorylation of the ALK target insulin receptor substrate (IRS1), activates mitogen-activated protein kinases (MAPKs) and PI3-kinase, resulting also in cell proliferation induction (PubMed:12122009). Drives NF-kappa-B activation, probably through IRS1 and the activation of the AKT serine/threonine kinase (PubMed:15226403, PubMed:16878150). Recruitment of IRS1 to activated ALK and the activation of NF-kappa-B are essential for the autocrine growth and survival signaling of MDK (PubMed:15226403, PubMed:16878150). May function as regulator of gastric epithelial differentiation (By similarity)",
+  "sequence_length": 1620,
+  "success": true,
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "chembl_id": "CHEMBL210",
+  "uniprot_id": "P07550",
+  "gene_name": "ADRB2",
+  "target_name": "Beta-2 adrenergic receptor",
+  "target_type": "SINGLE PROTEIN",
+  "organism": "Homo sapiens",
+  "target_class_l1": "",
+  "target_class_l2": "",
+  "approved_drug_count": 0,
+  "bioactivity_count": 0,
+  "success": true,
+  "error": ""
+}

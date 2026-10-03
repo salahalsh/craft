@@ -1,0 +1,14 @@
+{
+  "chembl_id": "CHEMBL1962",
+  "uniprot_id": "P14867",
+  "gene_name": "GABRA1",
+  "target_name": "Gamma-aminobutyric acid receptor subunit alpha-1",
+  "target_type": "SINGLE PROTEIN",
+  "organism": "Homo sapiens",
+  "target_class_l1": "",
+  "target_class_l2": "",
+  "approved_drug_count": 0,
+  "bioactivity_count": 0,
+  "success": true,
+  "error": ""
+}

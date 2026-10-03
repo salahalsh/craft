@@ -1,0 +1,51 @@
+{
+  "uniprot_id": "P05108",
+  "protein_name": "Cholesterol side-chain cleavage enzyme, mitochondrial",
+  "gene_name": "CYP11A1",
+  "organism": "Homo sapiens",
+  "subcellular_locations": [
+    "Mitochondrion inner membrane",
+    "Peripheral membrane protein"
+  ],
+  "transmembrane_count": 0,
+  "topology_description": "soluble",
+  "signal_peptide": false,
+  "gpi_anchor": false,
+  "protein_families": [
+    "Belongs to the cytochrome P450 family"
+  ],
+  "keywords": [
+    "3D-structure",
+    "Alternative splicing",
+    "Cholesterol metabolism",
+    "Direct protein sequencing",
+    "Disease variant",
+    "Heme",
+    "Iron",
+    "Lipid biosynthesis",
+    "Lipid metabolism",
+    "Membrane",
+    "Metal-binding",
+    "Mitochondrion",
+    "Mitochondrion inner membrane",
+    "Monooxygenase",
+    "Oxidoreductase",
+    "Proteomics identification",
+    "Reference proteome",
+    "Steroid biosynthesis",
+    "Steroid metabolism",
+    "Steroidogenesis",
+    "Sterol metabolism",
+    "Transit peptide"
+  ],
+  "go_cellular_component": [
+    "mitochondrial inner membrane",
+    "mitochondrial matrix",
+    "mitochondrion"
+  ],
+  "tissue_specificity": "",
+  "function_description": "A cytochrome P450 monooxygenase that catalyzes the side-chain hydroxylation and cleavage of cholesterol to pregnenolone, the precursor of most steroid hormones (PubMed:21636783). Catalyzes three sequential oxidation reactions of cholesterol, namely the hydroxylation at C22 followed with the hydroxylation at C20 to yield 20R,22R-hydroxycholesterol that is further cleaved between C20 and C22 to yield the C21-steroid pregnenolone and 4-methylpentanal (PubMed:21636783). Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate and reducing the second into a water molecule. Two electrons are provided by NADPH via a two-protein mitochondrial transfer system comprising flavoprotein FDXR (adrenodoxin/ferredoxin reductase) and nonheme iron-sulfur protein FDX1 or FDX2 (adrenodoxin/ferredoxin) (PubMed:21636783)",
+  "sequence_length": 521,
+  "success": true,
+  "error": ""
+}

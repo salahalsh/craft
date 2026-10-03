@@ -1,0 +1,47 @@
+{
+  "uniprot_id": "P11473",
+  "protein_name": "Vitamin D3 receptor",
+  "gene_name": "VDR",
+  "organism": "Homo sapiens",
+  "subcellular_locations": [
+    "Nucleus",
+    "Cytoplasm"
+  ],
+  "transmembrane_count": 0,
+  "topology_description": "soluble",
+  "signal_peptide": false,
+  "gpi_anchor": false,
+  "protein_families": [
+    "Belongs to the nuclear hormone receptor family. NR1 subfamily"
+  ],
+  "keywords": [
+    "3D-structure",
+    "Alternative splicing",
+    "Cytoplasm",
+    "Disease variant",
+    "DNA-binding",
+    "Metal-binding",
+    "Nucleus",
+    "Proteomics identification",
+    "Receptor",
+    "Reference proteome",
+    "Transcription",
+    "Transcription regulation",
+    "Ubl conjugation",
+    "Zinc",
+    "Zinc-finger"
+  ],
+  "go_cellular_component": [
+    "chromatin",
+    "cytoplasm",
+    "nucleoplasm",
+    "nucleus",
+    "RNA polymerase II transcription regulator complex",
+    "signaling receptor complex"
+  ],
+  "tissue_specificity": "",
+  "function_description": "Nuclear receptor for calcitriol, the active form of vitamin D3 which mediates the action of this vitamin on cells (PubMed:10678179, PubMed:15728261, PubMed:16913708, PubMed:28698609, PubMed:37478846). Enters the nucleus upon vitamin D3 binding where it forms heterodimers with the retinoid X receptor/RXR (PubMed:28698609). The VDR-RXR heterodimers bind to specific response elements on DNA and activate the transcription of vitamin D3-responsive target genes (PubMed:28698609). Plays a central role in calcium homeostasis (By similarity). Also functions as a receptor for the secondary bile acid lithocholic acid (LCA) and its metabolites (PubMed:12016314, PubMed:32354638)",
+  "sequence_length": 427,
+  "success": true,
+  "error": ""
+}

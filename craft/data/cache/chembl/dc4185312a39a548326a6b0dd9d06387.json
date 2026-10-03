@@ -1,0 +1,14 @@
+{
+  "chembl_id": "CHEMBL1741209",
+  "uniprot_id": "Q96QE3",
+  "gene_name": "ATAD5",
+  "target_name": "ATPase family AAA domain-containing protein 5",
+  "target_type": "SINGLE PROTEIN",
+  "organism": "Homo sapiens",
+  "target_class_l1": "",
+  "target_class_l2": "",
+  "approved_drug_count": 0,
+  "bioactivity_count": 0,
+  "success": true,
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "chembl_id": "CHEMBL279",
+  "uniprot_id": "P35968",
+  "gene_name": "KDR",
+  "target_name": "Vascular endothelial growth factor receptor 2",
+  "target_type": "SINGLE PROTEIN",
+  "organism": "Homo sapiens",
+  "target_class_l1": "",
+  "target_class_l2": "",
+  "approved_drug_count": 0,
+  "bioactivity_count": 0,
+  "success": true,
+  "error": ""
+}

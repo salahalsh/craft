@@ -1,0 +1,14 @@
+{
+  "chembl_id": "CHEMBL1075094",
+  "uniprot_id": "Q16236",
+  "gene_name": "NFE2L2",
+  "target_name": "Nuclear factor erythroid 2-related factor 2",
+  "target_type": "SINGLE PROTEIN",
+  "organism": "Homo sapiens",
+  "target_class_l1": "",
+  "target_class_l2": "",
+  "approved_drug_count": 0,
+  "bioactivity_count": 0,
+  "success": true,
+  "error": ""
+}

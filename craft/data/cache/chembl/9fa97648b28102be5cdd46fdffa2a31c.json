@@ -1,0 +1,14 @@
+{
+  "chembl_id": "CHEMBL1940",
+  "uniprot_id": "Q13936",
+  "gene_name": "CACNA1C",
+  "target_name": "Voltage-dependent L-type calcium channel subunit alpha-1C",
+  "target_type": "SINGLE PROTEIN",
+  "organism": "Homo sapiens",
+  "target_class_l1": "",
+  "target_class_l2": "",
+  "approved_drug_count": 0,
+  "bioactivity_count": 0,
+  "success": true,
+  "error": ""
+}

@@ -1,0 +1,46 @@
+{
+  "uniprot_id": "Q92731",
+  "protein_name": "Estrogen receptor beta",
+  "gene_name": "ESR2",
+  "organism": "Homo sapiens",
+  "subcellular_locations": [
+    "Nucleus"
+  ],
+  "transmembrane_count": 0,
+  "topology_description": "soluble",
+  "signal_peptide": false,
+  "gpi_anchor": false,
+  "protein_families": [
+    "Belongs to the nuclear hormone receptor family. NR3 subfamily"
+  ],
+  "keywords": [
+    "3D-structure",
+    "Activator",
+    "Alternative splicing",
+    "Disease variant",
+    "DNA-binding",
+    "Lipid-binding",
+    "Metal-binding",
+    "Nucleus",
+    "Phosphoprotein",
+    "Proteomics identification",
+    "Receptor",
+    "Reference proteome",
+    "Steroid-binding",
+    "Transcription",
+    "Transcription regulation",
+    "Zinc",
+    "Zinc-finger"
+  ],
+  "go_cellular_component": [
+    "chromatin",
+    "mitochondrion",
+    "nucleoplasm",
+    "nucleus"
+  ],
+  "tissue_specificity": "Expressed in testis and ovary, and at a lower level in heart, brain, placenta, liver, skeletal muscle, spleen, thymus, prostate, colon, bone marrow, mammary gland and uterus. Also found in uterine bone, breast, and ovarian tumor cell lines, but not in colon and liver tumors Expressed in spleen, thymus, testis and ovary and at a lower level in skeletal muscle, prostate, colon, small intestine, leukocytes, bone marrow, mammary gland and uterus Expressed in the testis Expressed in testis, and at a lower level in spleen, thymus, ovary, mammary gland and uterus Expressed in testis, placenta, skeletal muscle, spleen and leukocytes, and at a lower level in heart, lung, liver, kidney, pancreas, thymus, prostate, colon, small intestine, bone marrow, mammary gland and uterus. Not expressed in brain",
+  "function_description": "Nuclear hormone receptor. Binds estrogens with an affinity similar to that of ESR1/ER-alpha, and activates expression of reporter genes containing estrogen response elements (ERE) in an estrogen-dependent manner (PubMed:20074560) Lacks ligand binding ability and has no or only very low ERE binding activity resulting in the loss of ligand-dependent transactivation ability",
+  "sequence_length": 530,
+  "success": true,
+  "error": ""
+}

@@ -1,0 +1,37 @@
+{
+  "uniprot_id": "O76074",
+  "protein_name": "cGMP-specific 3',5'-cyclic phosphodiesterase",
+  "gene_name": "PDE5A",
+  "organism": "Homo sapiens",
+  "subcellular_locations": [],
+  "transmembrane_count": 0,
+  "topology_description": "soluble",
+  "signal_peptide": false,
+  "gpi_anchor": false,
+  "protein_families": [
+    "Belongs to the cyclic nucleotide phosphodiesterase family"
+  ],
+  "keywords": [
+    "3D-structure",
+    "Allosteric enzyme",
+    "Alternative splicing",
+    "cGMP",
+    "cGMP-binding",
+    "Hydrolase",
+    "Metal-binding",
+    "Nucleotide-binding",
+    "Phosphoprotein",
+    "Proteomics identification",
+    "Reference proteome",
+    "Repeat",
+    "Zinc"
+  ],
+  "go_cellular_component": [
+    "cytosol"
+  ],
+  "tissue_specificity": "Expressed in aortic smooth muscle cells, heart, placenta, skeletal muscle and pancreas and, to a much lesser extent, in brain, liver and lung",
+  "function_description": "Plays a role in signal transduction by regulating the intracellular concentration of cyclic nucleotides. This phosphodiesterase catalyzes the specific hydrolysis of cGMP to 5'-GMP (PubMed:15489334, PubMed:9714779). Specifically regulates nitric-oxide-generated cGMP (PubMed:15489334)",
+  "sequence_length": 875,
+  "success": true,
+  "error": ""
+}

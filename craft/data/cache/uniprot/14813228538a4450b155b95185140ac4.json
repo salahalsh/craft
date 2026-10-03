@@ -1,0 +1,41 @@
+{
+  "uniprot_id": "P14902",
+  "protein_name": "Indoleamine 2,3-dioxygenase 1",
+  "gene_name": "IDO1",
+  "organism": "Homo sapiens",
+  "subcellular_locations": [
+    "Cytoplasm, cytosol"
+  ],
+  "transmembrane_count": 0,
+  "topology_description": "soluble",
+  "signal_peptide": false,
+  "gpi_anchor": false,
+  "protein_families": [
+    "Belongs to the indoleamine 2,3-dioxygenase family"
+  ],
+  "keywords": [
+    "3D-structure",
+    "Cytoplasm",
+    "Dioxygenase",
+    "Direct protein sequencing",
+    "Heme",
+    "Immunity",
+    "Iron",
+    "Metal-binding",
+    "Oxidoreductase",
+    "Proteomics identification",
+    "Reference proteome",
+    "Tryptophan catabolism"
+  ],
+  "go_cellular_component": [
+    "cytoplasm",
+    "cytosol",
+    "smooth muscle contractile fiber",
+    "stereocilium bundle"
+  ],
+  "tissue_specificity": "Expressed in mature dendritic cells located in lymphoid organs (including lymph nodes, spleen, tonsils, Peyers's patches, the gut lamina propria, and the thymic medulla), in some epithelial cells of the female genital tract, as well as in endothelial cells of term placenta and in lung parenchyma (PubMed:25691885). Weakly or not expressed in most normal tissues, but mostly inducible in most tissues (PubMed:25691885). Expressed in more than 50% of tumors, either by tumoral, stromal, or endothelial cells (expression in tumor is associated with a worse clinical outcome) (PubMed:18418598). Not overexpressed in tumor-draining lymph nodes (PubMed:25691885, PubMed:26155395)",
+  "function_description": "Catalyzes the first and rate limiting step of the catabolism of the essential amino acid tryptophan along the kynurenine pathway (PubMed:17671174, PubMed:18026683). Involved in the peripheral immune tolerance, contributing to maintain homeostasis by preventing autoimmunity or immunopathology that would result from uncontrolled and overreacting immune responses (PubMed:25691885). Tryptophan shortage inhibits T lymphocytes division and accumulation of tryptophan catabolites induces T-cell apoptosis and differentiation of regulatory T-cells (PubMed:25691885). Acts as a suppressor of anti-tumor immunity (PubMed:14502282, PubMed:23103127, PubMed:25157255, PubMed:25691885). Limits the growth of intracellular pathogens by depriving tryptophan (PubMed:25691885). Protects the fetus from maternal immune rejection (PubMed:25691885)",
+  "sequence_length": 403,
+  "success": true,
+  "error": ""
+}

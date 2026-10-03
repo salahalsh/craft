@@ -1,0 +1,47 @@
+{
+  "uniprot_id": "Q07869",
+  "protein_name": "Peroxisome proliferator-activated receptor alpha",
+  "gene_name": "PPARA",
+  "organism": "Homo sapiens",
+  "subcellular_locations": [
+    "Nucleus"
+  ],
+  "transmembrane_count": 0,
+  "topology_description": "soluble",
+  "signal_peptide": false,
+  "gpi_anchor": false,
+  "protein_families": [
+    "Belongs to the nuclear hormone receptor family. NR1 subfamily"
+  ],
+  "keywords": [
+    "3D-structure",
+    "Activator",
+    "Alternative splicing",
+    "Biological rhythms",
+    "DNA-binding",
+    "Lipid-binding",
+    "Metal-binding",
+    "Nucleus",
+    "Proteomics identification",
+    "Receptor",
+    "Reference proteome",
+    "Transcription",
+    "Transcription regulation",
+    "Ubl conjugation",
+    "Zinc",
+    "Zinc-finger"
+  ],
+  "go_cellular_component": [
+    "chromatin",
+    "fibrillar center",
+    "nuclear body",
+    "nucleoplasm",
+    "nucleus",
+    "RNA polymerase II transcription regulator complex"
+  ],
+  "tissue_specificity": "Skeletal muscle, liver, heart and kidney. Expressed in monocytes (PubMed:28167758)",
+  "function_description": "Ligand-activated transcription factor. Key regulator of lipid metabolism. Activated by the endogenous ligand 1-palmitoyl-2-oleoyl-sn-glycerol-3-phosphocholine (16:0/18:1-GPC). Activated by oleylethanolamide, a naturally occurring lipid that regulates satiety. Receptor for peroxisome proliferators such as hypolipidemic drugs and fatty acids. Regulates the peroxisomal beta-oxidation pathway of fatty acids. Functions as a transcription activator for the ACOX1 and P450 genes. Transactivation activity requires heterodimerization with RXRA and is antagonized by NR2C2. May be required for the propagation of clock information to metabolic pathways regulated by PER2",
+  "sequence_length": 468,
+  "success": true,
+  "error": ""
+}

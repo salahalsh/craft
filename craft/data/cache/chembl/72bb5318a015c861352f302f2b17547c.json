@@ -1,0 +1,14 @@
+{
+  "chembl_id": "CHEMBL224",
+  "uniprot_id": "P28223",
+  "gene_name": "HTR2A",
+  "target_name": "5-hydroxytryptamine receptor 2A",
+  "target_type": "SINGLE PROTEIN",
+  "organism": "Homo sapiens",
+  "target_class_l1": "",
+  "target_class_l2": "",
+  "approved_drug_count": 0,
+  "bioactivity_count": 0,
+  "success": true,
+  "error": ""
+}

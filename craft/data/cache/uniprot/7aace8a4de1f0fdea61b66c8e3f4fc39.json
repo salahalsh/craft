@@ -1,0 +1,61 @@
+{
+  "uniprot_id": "P21728",
+  "protein_name": "Dopamine receptor D1",
+  "gene_name": "DRD1",
+  "organism": "Homo sapiens",
+  "subcellular_locations": [
+    "Postsynaptic cell membrane",
+    "Multi-pass membrane protein",
+    "Cell projection, dendritic spine membrane",
+    "Cell projection, cilium membrane",
+    "Endoplasmic reticulum membrane"
+  ],
+  "transmembrane_count": 7,
+  "topology_description": "7TM",
+  "signal_peptide": false,
+  "gpi_anchor": false,
+  "protein_families": [
+    "Belongs to the G protein-coupled receptor 1 family"
+  ],
+  "keywords": [
+    "3D-structure",
+    "Cell membrane",
+    "Cell projection",
+    "Disulfide bond",
+    "Endoplasmic reticulum",
+    "G protein-coupled receptor",
+    "Glycoprotein",
+    "Lipoprotein",
+    "Membrane",
+    "Palmitate",
+    "Phosphoprotein",
+    "Postsynaptic cell membrane",
+    "Proteomics identification",
+    "Receptor",
+    "Reference proteome",
+    "Synapse",
+    "Transducer",
+    "Transmembrane",
+    "Transmembrane helix"
+  ],
+  "go_cellular_component": [
+    "9+0 non-motile cilium",
+    "ciliary membrane",
+    "cilium",
+    "dendritic spine",
+    "endoplasmic reticulum membrane",
+    "G protein-coupled receptor complex",
+    "GABA-ergic synapse",
+    "glutamatergic synapse",
+    "non-motile cilium",
+    "nucleus",
+    "plasma membrane",
+    "postsynaptic membrane",
+    "presynaptic membrane"
+  ],
+  "tissue_specificity": "Detected in caudate, nucleus accumbens and in the olfactory tubercle",
+  "function_description": "G protein-coupled receptor for dopamine, a catecholamine neurotransmitter hormone that functions as the brain's 'reward chemical', driving motivation, reinforcement learning and pleasure (PubMed:11500503, PubMed:33571431, PubMed:33571432, PubMed:33750903, PubMed:34083522, PubMed:35676276, PubMed:35687690, PubMed:37221270). Dopamine binding causes a conformation change that triggers signaling via guanine nucleotide-binding proteins (G proteins) and modulates the activity of downstream effectors, such as adenylate cyclase (PubMed:33571431, PubMed:33571432, PubMed:33750903, PubMed:34083522, PubMed:35676276, PubMed:35687690). Dopamine receptors can be classified in two categories: (1) DRD1 (together with DRD5) is a D1-type receptor and is coupled to G(s) G proteins, mediating activation of adenylate cyclase activity, while D2-type receptors (DRD2, DRD3 and DRD4) are coupled to G(i)/G(o) G proteins and promote inhibition of adenylate cyclase activity (PubMed:33571431, PubMed:33571432, PubMed:33750903, PubMed:34083522, PubMed:35676276, PubMed:35687690, PubMed:7782330). D1- and D2-type dopamine receptors have antagonistic effects, particularly in the brain's striatum, where they govern voluntary movement and reward: D1-type receptors generally stimulate neural activity and promotes action, while D2-type receptors tend to inhibit neural activity and suppress movement (By similarity). DRD1 acts as an essential regulator of reward, motor activity and cognition in the central nervous system and play beneficial roles in peripheral tissues including inhibiting inflammatory reactions and maintaining cardiovascular and kidney homeostasis (PubMed:33571431, PubMed:33571432). DRD1 and DRD2 are the most abundant dopamine receptors in the central nervous system, especially in the basal ganglia and the prefrontal cortex (PubMed:33571431, PubMed:33571432). DRD1 can also couple with G(q) by forming a heteromer with the ghrelin receptor GHSR in hippocampal neurons independently of ghrelin (By similarity). Following DRD1 activation by dopamine, GHSR acts as a coreceptor promoting DRD1 coupling to G(q) at the expense of G(s), initiating hippocampal synaptic plasticity involved in memory and learning (By similarity). Forms heterotetramers with DRD3 to potentiate beta-arrestin recruitment and mediate locomotor activity (By similarity). Also acts as a receptor for D-lysergic (LSD) psychedelic drug (PubMed:39094559)",
+  "sequence_length": 446,
+  "success": true,
+  "error": ""
+}

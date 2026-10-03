@@ -1,0 +1,53 @@
+{
+  "uniprot_id": "P21453",
+  "protein_name": "Sphingosine 1-phosphate receptor 1",
+  "gene_name": "S1PR1",
+  "organism": "Homo sapiens",
+  "subcellular_locations": [
+    "Cell membrane",
+    "Multi-pass membrane protein",
+    "Endosome",
+    "Membrane raft"
+  ],
+  "transmembrane_count": 7,
+  "topology_description": "7TM",
+  "signal_peptide": false,
+  "gpi_anchor": false,
+  "protein_families": [
+    "Belongs to the G protein-coupled receptor 1 family"
+  ],
+  "keywords": [
+    "3D-structure",
+    "Acetylation",
+    "Angiogenesis",
+    "Cell membrane",
+    "Chemotaxis",
+    "Disulfide bond",
+    "Endosome",
+    "G protein-coupled receptor",
+    "Glycoprotein",
+    "Lipoprotein",
+    "Membrane",
+    "Palmitate",
+    "Phosphoprotein",
+    "Proteomics identification",
+    "Receptor",
+    "Reference proteome",
+    "Transducer",
+    "Transmembrane",
+    "Transmembrane helix"
+  ],
+  "go_cellular_component": [
+    "cytoplasm",
+    "endosome",
+    "external side of plasma membrane",
+    "membrane raft",
+    "plasma membrane",
+    "presynapse"
+  ],
+  "tissue_specificity": "Endothelial cells, and to a lesser extent, in vascular smooth muscle cells, fibroblasts, melanocytes, and cells of epithelioid origin",
+  "function_description": "G protein-coupled receptor for the bioactive lysosphingolipid sphingosine 1-phosphate (S1P) that seems to be coupled to the G(i) subclass of heteromeric G proteins. Signaling leads to the activation of RAC1, SRC, PTK2/FAK1 and MAP kinases. Plays an important role in cell migration, probably via its role in the reorganization of the actin cytoskeleton and the formation of lamellipodia in response to stimuli that increase the activity of the sphingosine kinase SPHK1. Required for normal chemotaxis toward sphingosine 1-phosphate. Required for normal embryonic heart development and normal cardiac morphogenesis. Plays an important role in the regulation of sprouting angiogenesis and vascular maturation. Inhibits sprouting angiogenesis to prevent excessive sprouting during blood vessel development. Required for normal egress of mature T-cells from the thymus into the blood stream and into peripheral lymphoid organs. Plays a role in the migration of osteoclast precursor cells, the regulation of bone mineralization and bone homeostasis (By similarity). Plays a role in responses to oxidized 1-palmitoyl-2-arachidonoyl-sn-glycero-3-phosphocholine by pulmonary endothelial cells and in the protection against ventilator-induced lung injury",
+  "sequence_length": 382,
+  "success": true,
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "chembl_id": "CHEMBL2107",
+  "uniprot_id": "P61073",
+  "gene_name": "CXCR4",
+  "target_name": "C-X-C chemokine receptor type 4",
+  "target_type": "SINGLE PROTEIN",
+  "organism": "Homo sapiens",
+  "target_class_l1": "",
+  "target_class_l2": "",
+  "approved_drug_count": 0,
+  "bioactivity_count": 0,
+  "success": true,
+  "error": ""
+}

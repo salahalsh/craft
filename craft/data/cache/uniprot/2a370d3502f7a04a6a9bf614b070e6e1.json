@@ -1,0 +1,43 @@
+{
+  "uniprot_id": "P27338",
+  "protein_name": "Amine oxidase [flavin-containing] B",
+  "gene_name": "MAOB",
+  "organism": "Homo sapiens",
+  "subcellular_locations": [
+    "Mitochondrion outer membrane",
+    "Single-pass type IV membrane protein"
+  ],
+  "transmembrane_count": 1,
+  "topology_description": "single-pass",
+  "signal_peptide": false,
+  "gpi_anchor": false,
+  "protein_families": [
+    "Belongs to the flavin monoamine oxidase family"
+  ],
+  "keywords": [
+    "3D-structure",
+    "Acetylation",
+    "Alternative splicing",
+    "Direct protein sequencing",
+    "FAD",
+    "Flavoprotein",
+    "Membrane",
+    "Mitochondrion",
+    "Mitochondrion outer membrane",
+    "Oxidoreductase",
+    "Proteomics identification",
+    "Reference proteome",
+    "Transmembrane",
+    "Transmembrane helix"
+  ],
+  "go_cellular_component": [
+    "mitochondrial envelope",
+    "mitochondrial outer membrane",
+    "mitochondrion"
+  ],
+  "tissue_specificity": "",
+  "function_description": "Catalyzes the oxidative deamination of primary and some secondary amines such as neurotransmitters, and exogenous amines including the tertiary amine, neurotoxin 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP), with concomitant reduction of oxygen to hydrogen peroxide and participates in the metabolism of neuroactive and vasoactive amines in the central nervous system and peripheral tissues (PubMed:11049757, PubMed:11134050, PubMed:20493079, PubMed:8316221, PubMed:8665924). Preferentially degrades benzylamine and phenylethylamine (PubMed:11049757, PubMed:11134050, PubMed:20493079, PubMed:8316221, PubMed:8665924)",
+  "sequence_length": 520,
+  "success": true,
+  "error": ""
+}

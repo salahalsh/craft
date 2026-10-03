@@ -1,0 +1,50 @@
+{
+  "uniprot_id": "P08172",
+  "protein_name": "Muscarinic acetylcholine receptor M2",
+  "gene_name": "CHRM2",
+  "organism": "Homo sapiens",
+  "subcellular_locations": [
+    "Cell membrane",
+    "Multi-pass membrane protein",
+    "Postsynaptic cell membrane"
+  ],
+  "transmembrane_count": 7,
+  "topology_description": "7TM",
+  "signal_peptide": false,
+  "gpi_anchor": false,
+  "protein_families": [
+    "Belongs to the G protein-coupled receptor 1 family. Muscarinic acetylcholine receptor subfamily. CHRM2 sub-subfamily"
+  ],
+  "keywords": [
+    "3D-structure",
+    "Cell membrane",
+    "Disulfide bond",
+    "G protein-coupled receptor",
+    "Glycoprotein",
+    "Membrane",
+    "Phosphoprotein",
+    "Postsynaptic cell membrane",
+    "Proteomics identification",
+    "Receptor",
+    "Reference proteome",
+    "Synapse",
+    "Transducer",
+    "Transmembrane",
+    "Transmembrane helix"
+  ],
+  "go_cellular_component": [
+    "cholinergic synapse",
+    "clathrin-coated endocytic vesicle membrane",
+    "dendrite",
+    "membrane",
+    "plasma membrane",
+    "postsynaptic membrane",
+    "presynapse",
+    "synapse"
+  ],
+  "tissue_specificity": "",
+  "function_description": "Muscarinic receptor for acetylcholine, a neurotransmitter found in the brain, neuromuscular junctions and the autonomic ganglia (PubMed:24256733, PubMed:3443095, PubMed:36690613). Ligand binding causes a conformation change that triggers signaling via guanine nucleotide-binding proteins (G proteins) and modulates the activity of downstream effectors, such as adenylate cyclase (PubMed:36690613). CHRM2 is coupled to G(i)/G(o) (GNAI1 or GNAO1) G proteins and mediates signaling by inhibiting adenylate cyclase activity (PubMed:36690613)",
+  "sequence_length": 466,
+  "success": true,
+  "error": ""
+}

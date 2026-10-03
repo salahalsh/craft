@@ -1,0 +1,59 @@
+{
+  "uniprot_id": "P08581",
+  "protein_name": "Hepatocyte growth factor receptor",
+  "gene_name": "MET",
+  "organism": "Homo sapiens",
+  "subcellular_locations": [
+    "Membrane",
+    "Single-pass type I membrane protein",
+    "Secreted"
+  ],
+  "transmembrane_count": 1,
+  "topology_description": "single-pass",
+  "signal_peptide": true,
+  "gpi_anchor": false,
+  "protein_families": [
+    "Belongs to the protein kinase superfamily. Tyr protein kinase family"
+  ],
+  "keywords": [
+    "3D-structure",
+    "Alternative splicing",
+    "ATP-binding",
+    "Chromosomal rearrangement",
+    "Deafness",
+    "Disease variant",
+    "Disulfide bond",
+    "Glycoprotein",
+    "Kinase",
+    "Membrane",
+    "Non-syndromic deafness",
+    "Nucleotide-binding",
+    "Phosphoprotein",
+    "Proteomics identification",
+    "Proto-oncogene",
+    "Receptor",
+    "Reference proteome",
+    "Repeat",
+    "Secreted",
+    "Signal",
+    "Transferase",
+    "Transmembrane",
+    "Transmembrane helix",
+    "Tyrosine-protein kinase",
+    "Ubl conjugation"
+  ],
+  "go_cellular_component": [
+    "basal plasma membrane",
+    "cell surface",
+    "extracellular region",
+    "membrane",
+    "plasma membrane",
+    "postsynapse",
+    "signaling receptor complex"
+  ],
+  "tissue_specificity": "Expressed in normal hepatocytes as well as in epithelial cells lining the stomach, the small and the large intestine. Found also in basal keratinocytes of esophagus and skin. High levels are found in liver, gastrointestinal tract, thyroid and kidney. Also present in the brain. Expressed in metaphyseal bone (at protein level) (PubMed:26637977)",
+  "function_description": "Receptor tyrosine kinase that transduces signals from the extracellular matrix into the cytoplasm by binding to hepatocyte growth factor/HGF ligand. Regulates many physiological processes including proliferation, scattering, morphogenesis and survival. Ligand binding at the cell surface induces autophosphorylation of MET on its intracellular domain that provides docking sites for downstream signaling molecules. Following activation by ligand, interacts with the PI3-kinase subunit PIK3R1, PLCG1, SRC, GRB2, STAT3 or the adapter GAB1. Recruitment of these downstream effectors by MET leads to the activation of several signaling cascades including the RAS-ERK, PI3 kinase-AKT, or PLCgamma-PKC. The RAS-ERK activation is associated with the morphogenetic effects while PI3K/AKT coordinates prosurvival effects. During embryonic development, MET signaling plays a role in gastrulation, development and migration of neuronal precursors, angiogenesis and kidney formation. During skeletal muscle development, it is crucial for the migration of muscle progenitor cells and for the proliferation of secondary myoblasts (By similarity). In adults, participates in wound healing as well as organ regeneration and tissue remodeling. Also promotes differentiation and proliferation of hematopoietic cells. May regulate cortical bone osteogenesis (By similarity) (Microbial infection) Acts as a receptor for Listeria monocytogenes internalin InlB, mediating entry of the pathogen into cells",
+  "sequence_length": 1390,
+  "success": true,
+  "error": ""
+}

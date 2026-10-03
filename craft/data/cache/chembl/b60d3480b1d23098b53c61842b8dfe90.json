@@ -1,0 +1,14 @@
+{
+  "chembl_id": "CHEMBL251",
+  "uniprot_id": "P29274",
+  "gene_name": "ADORA2A",
+  "target_name": "Adenosine receptor A2a",
+  "target_type": "SINGLE PROTEIN",
+  "organism": "Homo sapiens",
+  "target_class_l1": "",
+  "target_class_l2": "",
+  "approved_drug_count": 0,
+  "bioactivity_count": 0,
+  "success": true,
+  "error": ""
+}

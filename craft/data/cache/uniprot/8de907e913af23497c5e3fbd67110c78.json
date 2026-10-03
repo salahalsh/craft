@@ -1,0 +1,50 @@
+{
+  "uniprot_id": "P41143",
+  "protein_name": "Delta-type opioid receptor",
+  "gene_name": "OPRD1",
+  "organism": "Homo sapiens",
+  "subcellular_locations": [
+    "Cell membrane",
+    "Multi-pass membrane protein"
+  ],
+  "transmembrane_count": 7,
+  "topology_description": "7TM",
+  "signal_peptide": false,
+  "gpi_anchor": false,
+  "protein_families": [
+    "Belongs to the G protein-coupled receptor 1 family"
+  ],
+  "keywords": [
+    "3D-structure",
+    "Cell membrane",
+    "Disulfide bond",
+    "G protein-coupled receptor",
+    "Glycoprotein",
+    "Lipoprotein",
+    "Membrane",
+    "Palmitate",
+    "Proteomics identification",
+    "Receptor",
+    "Reference proteome",
+    "Transducer",
+    "Transmembrane",
+    "Transmembrane helix",
+    "Ubl conjugation"
+  ],
+  "go_cellular_component": [
+    "axon terminus",
+    "dendrite membrane",
+    "neuron projection",
+    "neuronal dense core vesicle",
+    "plasma membrane",
+    "postsynaptic density membrane",
+    "presynaptic membrane",
+    "spine apparatus",
+    "synaptic vesicle membrane"
+  ],
+  "tissue_specificity": "Detected in oocytes (at protein level). Detected in brain cortex, hypothalamus, hippocampus and olfactory bulb. Detected in oocytes",
+  "function_description": "G protein-coupled receptor that functions as a receptor for endogenous enkephalins and for a subset of other opioids. Ligand binding causes a conformation change that triggers signaling via guanine nucleotide-binding proteins (G proteins) and modulates the activity of down-stream effectors, such as adenylate cyclase. Signaling leads to the inhibition of adenylate cyclase activity. Inhibits neurotransmitter release by reducing calcium ion currents and increasing potassium ion conductance. Plays a role in the perception of pain and in opiate-mediated analgesia. Plays a role in developing analgesic tolerance to morphine",
+  "sequence_length": 372,
+  "success": true,
+  "error": ""
+}

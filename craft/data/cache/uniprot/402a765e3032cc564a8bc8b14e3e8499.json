@@ -1,0 +1,38 @@
+{
+  "uniprot_id": "Q96QE3",
+  "protein_name": "ATPase family AAA domain-containing protein 5",
+  "gene_name": "ATAD5",
+  "organism": "Homo sapiens",
+  "subcellular_locations": [
+    "Nucleus"
+  ],
+  "transmembrane_count": 0,
+  "topology_description": "soluble",
+  "signal_peptide": false,
+  "gpi_anchor": false,
+  "protein_families": [
+    "Belongs to the AAA ATPase family"
+  ],
+  "keywords": [
+    "3D-structure",
+    "Alternative splicing",
+    "ATP-binding",
+    "DNA damage",
+    "Isopeptide bond",
+    "Nucleotide-binding",
+    "Nucleus",
+    "Phosphoprotein",
+    "Proteomics identification",
+    "Reference proteome",
+    "Ubl conjugation"
+  ],
+  "go_cellular_component": [
+    "Elg1 RFC-like complex",
+    "nucleus"
+  ],
+  "tissue_specificity": "",
+  "function_description": "Has an important role in DNA replication and in maintaining genome integrity during replication stress (PubMed:15983387, PubMed:19755857). Involved in a RAD9A-related damage checkpoint, a pathway that is important in determining whether DNA damage is compatible with cell survival or whether it requires cell elimination by apoptosis (PubMed:15983387). Modulates the RAD9A interaction with BCL2 and thereby induces DNA damage-induced apoptosis (PubMed:15983387). Promotes PCNA deubiquitination by recruiting the ubiquitin-specific protease 1 (USP1) and WDR48 thereby down-regulating the error-prone damage bypass pathway (PubMed:20147293). As component of the ATAD5 RFC-like complex, regulates the function of the DNA polymerase processivity factor PCNA by unloading the ring-shaped PCNA homotrimer from DNA after replication during the S phase of the cell cycle (PubMed:23277426, PubMed:23937667). This seems to be dependent on its ATPase activity (PubMed:23277426). Plays important roles in restarting stalled replication forks under replication stress, by unloading the PCNA homotrimer from DNA and recruiting RAD51 possibly through an ATR-dependent manner (PubMed:31844045). Ultimately this enables replication fork regression, breakage, and eventual fork restart (PubMed:31844045). Both the PCNA unloading activity and the interaction with WDR48 are required to efficiently recruit RAD51 to stalled replication forks (PubMed:31844045). Promotes the generation of MUS81-mediated single-stranded DNA-associated breaks in response to replication stress, which is an alternative pathway to restart stalled/regressed replication forks (PubMed:31844045)",
+  "sequence_length": 1844,
+  "success": true,
+  "error": ""
+}

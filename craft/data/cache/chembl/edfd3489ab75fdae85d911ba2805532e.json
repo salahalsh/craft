@@ -1,0 +1,14 @@
+{
+  "chembl_id": "CHEMBL402",
+  "uniprot_id": "P04035",
+  "gene_name": "HMGCR",
+  "target_name": "3-hydroxy-3-methylglutaryl-coenzyme A reductase",
+  "target_type": "SINGLE PROTEIN",
+  "organism": "Homo sapiens",
+  "target_class_l1": "",
+  "target_class_l2": "",
+  "approved_drug_count": 0,
+  "bioactivity_count": 0,
+  "success": true,
+  "error": ""
+}

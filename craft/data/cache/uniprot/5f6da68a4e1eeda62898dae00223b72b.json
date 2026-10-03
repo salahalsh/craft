@@ -1,0 +1,50 @@
+{
+  "uniprot_id": "P51681",
+  "protein_name": "C-C chemokine receptor type 5",
+  "gene_name": "CCR5",
+  "organism": "Homo sapiens",
+  "subcellular_locations": [
+    "Cell membrane",
+    "Multi-pass membrane protein"
+  ],
+  "transmembrane_count": 7,
+  "topology_description": "7TM",
+  "signal_peptide": false,
+  "gpi_anchor": false,
+  "protein_families": [
+    "Belongs to the G protein-coupled receptor 1 family"
+  ],
+  "keywords": [
+    "3D-structure",
+    "Cell membrane",
+    "Diabetes mellitus",
+    "Disulfide bond",
+    "G protein-coupled receptor",
+    "Glycoprotein",
+    "Host cell receptor for virus entry",
+    "Host-virus interaction",
+    "Lipoprotein",
+    "Membrane",
+    "Palmitate",
+    "Phosphoprotein",
+    "Proteomics identification",
+    "Receptor",
+    "Reference proteome",
+    "Sulfation",
+    "Transducer",
+    "Transmembrane",
+    "Transmembrane helix"
+  ],
+  "go_cellular_component": [
+    "cell surface",
+    "cytoplasm",
+    "endosome",
+    "external side of plasma membrane",
+    "plasma membrane"
+  ],
+  "tissue_specificity": "Highly expressed in spleen, thymus, in the myeloid cell line THP-1, in the promyeloblastic cell line KG-1a and on CD4+ and CD8+ T-cells. Medium levels in peripheral blood leukocytes and in small intestine. Low levels in ovary and lung",
+  "function_description": "Receptor for a number of inflammatory CC-chemokines including CCL3/MIP-1-alpha, CCL4/MIP-1-beta and RANTES and subsequently transduces a signal by increasing the intracellular calcium ion level. May play a role in the control of granulocytic lineage proliferation or differentiation. Participates in T-lymphocyte migration to the infection site by acting as a chemotactic receptor (PubMed:30713770) (Microbial infection) Acts as a coreceptor (CD4 being the primary receptor) of human immunodeficiency virus-1/HIV-1",
+  "sequence_length": 352,
+  "success": true,
+  "error": ""
+}

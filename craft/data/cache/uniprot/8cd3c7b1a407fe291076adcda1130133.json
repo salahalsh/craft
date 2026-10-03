@@ -1,0 +1,45 @@
+{
+  "uniprot_id": "P08588",
+  "protein_name": "Beta-1 adrenergic receptor",
+  "gene_name": "ADRB1",
+  "organism": "Homo sapiens",
+  "subcellular_locations": [
+    "Cell membrane",
+    "Multi-pass membrane protein"
+  ],
+  "transmembrane_count": 7,
+  "topology_description": "7TM",
+  "signal_peptide": false,
+  "gpi_anchor": false,
+  "protein_families": [
+    "Belongs to the G protein-coupled receptor 1 family. Adrenergic receptor subfamily. ADRB1 sub-subfamily"
+  ],
+  "keywords": [
+    "3D-structure",
+    "Cell membrane",
+    "Disulfide bond",
+    "G protein-coupled receptor",
+    "Glycoprotein",
+    "Lipoprotein",
+    "Membrane",
+    "Palmitate",
+    "Phosphoprotein",
+    "Proteomics identification",
+    "Receptor",
+    "Reference proteome",
+    "Transducer",
+    "Transmembrane",
+    "Transmembrane helix"
+  ],
+  "go_cellular_component": [
+    "early endosome",
+    "neuronal dense core vesicle",
+    "plasma membrane",
+    "Schaffer collateral - CA1 synapse"
+  ],
+  "tissue_specificity": "",
+  "function_description": "G protein-coupled receptor for catecholamines that couples to G(s) proteins to activate adenylate cyclase and cAMP-dependent pathway (PubMed:10212248, PubMed:12391161, PubMed:15358775). Binds epinephrine and norepinephrine with approximately equal affinity (PubMed:33093660). Mediates the activation of Ras via binding with cAMP-dependent RAPGEF2 (PubMed:12391161). As part of the sympathetic nervous system, plays a role in the physiologic regulation of cardiac functions such as stimulation of cardiomyocyte contraction (PubMed:11052857). Also delivers proapoptotic signals in cardiomyocytes (By similarity). Involved in the regulation of sleep/wake behaviors (PubMed:11854867, PubMed:31473062)",
+  "sequence_length": 477,
+  "success": true,
+  "error": ""
+}

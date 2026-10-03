@@ -1,0 +1,14 @@
+{
+  "chembl_id": "CHEMBL214",
+  "uniprot_id": "P08908",
+  "gene_name": "HTR1A",
+  "target_name": "5-hydroxytryptamine receptor 1A",
+  "target_type": "SINGLE PROTEIN",
+  "organism": "Homo sapiens",
+  "target_class_l1": "",
+  "target_class_l2": "",
+  "approved_drug_count": 0,
+  "bioactivity_count": 0,
+  "success": true,
+  "error": ""
+}

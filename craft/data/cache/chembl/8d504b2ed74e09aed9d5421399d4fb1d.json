@@ -1,0 +1,14 @@
+{
+  "chembl_id": "CHEMBL2033",
+  "uniprot_id": "P05108",
+  "gene_name": "CYP11A1",
+  "target_name": "Cholesterol side-chain cleavage enzyme, mitochondrial",
+  "target_type": "SINGLE PROTEIN",
+  "organism": "Homo sapiens",
+  "target_class_l1": "",
+  "target_class_l2": "",
+  "approved_drug_count": 0,
+  "bioactivity_count": 0,
+  "success": true,
+  "error": ""
+}

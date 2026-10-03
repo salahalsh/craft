@@ -1,0 +1,42 @@
+{
+  "uniprot_id": "P35367",
+  "protein_name": "Histamine H1 receptor",
+  "gene_name": "HRH1",
+  "organism": "Homo sapiens",
+  "subcellular_locations": [
+    "Cell membrane",
+    "Multi-pass membrane protein"
+  ],
+  "transmembrane_count": 7,
+  "topology_description": "7TM",
+  "signal_peptide": false,
+  "gpi_anchor": false,
+  "protein_families": [
+    "Belongs to the G protein-coupled receptor 1 family"
+  ],
+  "keywords": [
+    "3D-structure",
+    "Cell membrane",
+    "Disulfide bond",
+    "G protein-coupled receptor",
+    "Glycoprotein",
+    "Membrane",
+    "Phosphoprotein",
+    "Proteomics identification",
+    "Receptor",
+    "Reference proteome",
+    "Transducer",
+    "Transmembrane",
+    "Transmembrane helix"
+  ],
+  "go_cellular_component": [
+    "dendrite",
+    "plasma membrane",
+    "synapse"
+  ],
+  "tissue_specificity": "",
+  "function_description": "G protein-coupled receptor for histamine, a biogenic amine that functions as an immune modulator and a neurotransmitter (PubMed:33828102, PubMed:8280179). Through the H1 receptor, histamine mediates the contraction of smooth muscles and increases capillary permeability due to contraction of terminal venules. Also mediates neurotransmission in the central nervous system and thereby regulates circadian rhythms, emotional and locomotor activities as well as cognitive functions (By similarity)",
+  "sequence_length": 487,
+  "success": true,
+  "error": ""
+}

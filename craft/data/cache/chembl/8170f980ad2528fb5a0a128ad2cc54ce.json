@@ -1,0 +1,14 @@
+{
+  "chembl_id": "CHEMBL340",
+  "uniprot_id": "P08684",
+  "gene_name": "CYP3A4",
+  "target_name": "Cytochrome P450 3A4",
+  "target_type": "SINGLE PROTEIN",
+  "organism": "Homo sapiens",
+  "target_class_l1": "",
+  "target_class_l2": "",
+  "approved_drug_count": 0,
+  "bioactivity_count": 0,
+  "success": true,
+  "error": ""
+}

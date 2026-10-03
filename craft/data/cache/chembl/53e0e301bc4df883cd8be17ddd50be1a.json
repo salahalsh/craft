@@ -1,0 +1,14 @@
+{
+  "chembl_id": "CHEMBL2055",
+  "uniprot_id": "P10276",
+  "gene_name": "RARA",
+  "target_name": "Retinoic acid receptor alpha",
+  "target_type": "SINGLE PROTEIN",
+  "organism": "Homo sapiens",
+  "target_class_l1": "",
+  "target_class_l2": "",
+  "approved_drug_count": 0,
+  "bioactivity_count": 0,
+  "success": true,
+  "error": ""
+}

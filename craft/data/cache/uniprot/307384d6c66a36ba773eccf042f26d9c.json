@@ -1,0 +1,60 @@
+{
+  "uniprot_id": "P22303",
+  "protein_name": "Acetylcholinesterase",
+  "gene_name": "ACHE",
+  "organism": "Homo sapiens",
+  "subcellular_locations": [
+    "Synapse",
+    "Secreted",
+    "Cell membrane",
+    "Peripheral membrane protein",
+    "Nucleus",
+    "Lipid-anchor, GPI-anchor"
+  ],
+  "transmembrane_count": 0,
+  "topology_description": "soluble",
+  "signal_peptide": true,
+  "gpi_anchor": true,
+  "protein_families": [
+    "Belongs to the type-B carboxylesterase/lipase family"
+  ],
+  "keywords": [
+    "3D-structure",
+    "Alternative splicing",
+    "Blood group antigen",
+    "Cell membrane",
+    "Direct protein sequencing",
+    "Disulfide bond",
+    "Glycoprotein",
+    "GPI-anchor",
+    "Hydrolase",
+    "Lipoprotein",
+    "Membrane",
+    "Neurotransmitter degradation",
+    "Nucleus",
+    "Proteomics identification",
+    "Reference proteome",
+    "Secreted",
+    "Serine esterase",
+    "Signal",
+    "Synapse"
+  ],
+  "go_cellular_component": [
+    "basement membrane",
+    "cell surface",
+    "extracellular region",
+    "Golgi apparatus",
+    "membrane",
+    "neuromuscular junction",
+    "nucleus",
+    "perinuclear region of cytoplasm",
+    "plasma membrane",
+    "synapse",
+    "synaptic cleft"
+  ],
+  "tissue_specificity": "Isoform H is highly expressed in erythrocytes",
+  "function_description": "Hydrolyzes rapidly the acetylcholine neurotransmitter released into the synaptic cleft allowing to terminate the signal transduction at the neuromuscular junction. Role in neuronal apoptosis",
+  "sequence_length": 614,
+  "success": true,
+  "error": ""
+}

@@ -1,0 +1,62 @@
+{
+  "uniprot_id": "P35372",
+  "protein_name": "Mu-type opioid receptor",
+  "gene_name": "OPRM1",
+  "organism": "Homo sapiens",
+  "subcellular_locations": [
+    "Cell membrane",
+    "Multi-pass membrane protein",
+    "Cell projection, axon",
+    "Perikaryon",
+    "Cell projection, dendrite",
+    "Endosome",
+    "Cytoplasm"
+  ],
+  "transmembrane_count": 7,
+  "topology_description": "7TM",
+  "signal_peptide": false,
+  "gpi_anchor": false,
+  "protein_families": [
+    "Belongs to the G protein-coupled receptor 1 family"
+  ],
+  "keywords": [
+    "3D-structure",
+    "Alternative splicing",
+    "Cell membrane",
+    "Cell projection",
+    "Cytoplasm",
+    "Disulfide bond",
+    "Endosome",
+    "G protein-coupled receptor",
+    "Glycoprotein",
+    "Lipoprotein",
+    "Membrane",
+    "Palmitate",
+    "Phosphoprotein",
+    "Proteomics identification",
+    "Receptor",
+    "Reference proteome",
+    "Transducer",
+    "Transmembrane",
+    "Transmembrane helix",
+    "Ubl conjugation"
+  ],
+  "go_cellular_component": [
+    "axon",
+    "cytoplasm",
+    "dendrite",
+    "endoplasmic reticulum",
+    "endosome",
+    "GABA-ergic synapse",
+    "Golgi apparatus",
+    "neuron projection",
+    "perikaryon",
+    "plasma membrane",
+    "presynapse"
+  ],
+  "tissue_specificity": "Expressed in brain. Isoform 16 and isoform 17 are detected in brain",
+  "function_description": "Receptor for endogenous opioids such as beta-endorphin and endomorphin (PubMed:10529478, PubMed:12589820, PubMed:7891175, PubMed:7905839, PubMed:7957926, PubMed:9689128). Receptor for natural and synthetic opioids including morphine, heroin, DAMGO, fentanyl, etorphine, buprenorphin and methadone (PubMed:10529478, PubMed:10836142, PubMed:12589820, PubMed:19300905, PubMed:7891175, PubMed:7905839, PubMed:7957926, PubMed:9689128). Also activated by enkephalin peptides, such as Met-enkephalin or Met-enkephalin-Arg-Phe, with higher affinity for Met-enkephalin-Arg-Phe (By similarity). Agonist binding to the receptor induces coupling to an inactive GDP-bound heterotrimeric G protein complex and subsequent exchange of GDP for GTP in the G protein alpha subunit leading to dissociation of the G protein complex with the free GTP-bound G protein alpha and the G protein beta-gamma dimer activating downstream cellular effectors (PubMed:7905839). The agonist- and cell type-specific activity is predominantly coupled to pertussis toxin-sensitive G(i) and G(o) G alpha proteins, GNAI1, GNAI2, GNAI3 and GNAO1 isoforms Alpha-1 and Alpha-2, and to a lesser extent to pertussis toxin-insensitive G alpha proteins GNAZ and GNA15 (PubMed:12068084). They mediate an array of downstream cellular responses, including inhibition of adenylate cyclase activity and both N-type and L-type calcium channels, activation of inward rectifying potassium channels, mitogen-activated protein kinase (MAPK), phospholipase C (PLC), phosphoinositide/protein kinase (PKC), phosphoinositide 3-kinase (PI3K) and regulation of NF-kappa-B (By similarity). Also couples to adenylate cyclase stimulatory G alpha proteins (By similarity). The selective temporal coupling to G proteins and subsequent signaling can be regulated by RGSZ proteins, such as RGS9, RGS17 and RGS4 (By similarity). Phosphorylation by members of the GPRK subfamily of Ser/Thr protein kinases and association with beta-arrestins is involved in short-term receptor desensitization (By similarity). Beta-arrestins associate with the GPRK-phosphorylated receptor and uncouple it from the G protein thus terminating signal transduction (By similarity). The phosphorylated receptor is internalized through endocytosis via clathrin-coated pits which involves beta-arrestins (By similarity). The activation of the ERK pathway occurs either in a G protein-dependent or a beta-arrestin-dependent manner and is regulated by agonist-specific receptor phosphorylation (By similarity). Acts as a class A G protein-coupled receptor (GPCR) which dissociates from beta-arrestin at or near the plasma membrane and undergoes rapid recycling (By similarity). Receptor down-regulation pathways are varying with the agonist and occur dependent or independent of G protein coupling (By similarity). Endogenous ligands induce rapid desensitization, endocytosis and recycling (By similarity). Heterooligomerization with other GPCRs can modulate agonist binding, signaling and trafficking properties (By similarity) Couples to GNAS and is proposed to be involved in excitatory effects Does not bind agonists but may act through oligomerization with binding-competent OPRM1 isoforms and reduce their ligand binding activity Does not bind agonists but may act through oligomerization with binding-competent OPRM1 isoforms and reduce their ligand binding activity",
+  "sequence_length": 400,
+  "success": true,
+  "error": ""
+}

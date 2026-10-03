@@ -1,0 +1,46 @@
+{
+  "uniprot_id": "P00918",
+  "protein_name": "Carbonic anhydrase 2",
+  "gene_name": "CA2",
+  "organism": "Homo sapiens",
+  "subcellular_locations": [
+    "Cytoplasm",
+    "Cell membrane"
+  ],
+  "transmembrane_count": 0,
+  "topology_description": "soluble",
+  "signal_peptide": false,
+  "gpi_anchor": false,
+  "protein_families": [
+    "Belongs to the alpha-carbonic anhydrase family"
+  ],
+  "keywords": [
+    "3D-structure",
+    "Acetylation",
+    "Cell membrane",
+    "Cytoplasm",
+    "Direct protein sequencing",
+    "Disease variant",
+    "Lyase",
+    "Membrane",
+    "Metal-binding",
+    "Osteopetrosis",
+    "Phosphoprotein",
+    "Proteomics identification",
+    "Reference proteome",
+    "Zinc"
+  ],
+  "go_cellular_component": [
+    "apical part of cell",
+    "cytoplasm",
+    "cytosol",
+    "extracellular exosome",
+    "myelin sheath",
+    "plasma membrane"
+  ],
+  "tissue_specificity": "",
+  "function_description": "Catalyzes the reversible hydration of carbon dioxide (PubMed:11327835, PubMed:11802772, PubMed:11831900, PubMed:12056894, PubMed:12171926, PubMed:1336460, PubMed:14736236, PubMed:15300855, PubMed:15453828, PubMed:15667203, PubMed:15865431, PubMed:16106378, PubMed:16214338, PubMed:16290146, PubMed:16686544, PubMed:16759856, PubMed:16807956, PubMed:17127057, PubMed:17251017, PubMed:17314045, PubMed:17330962, PubMed:17346964, PubMed:17540563, PubMed:17588751, PubMed:17705204, PubMed:18024029, PubMed:18162396, PubMed:18266323, PubMed:18374572, PubMed:18481843, PubMed:18640037, PubMed:18942852, PubMed:1909891, PubMed:1910042, PubMed:19170619, PubMed:19186056, PubMed:19206230, PubMed:19520834, PubMed:19778001, PubMed:7761440, PubMed:7901850, PubMed:8218160, PubMed:8262987, PubMed:8399159, PubMed:8451242, PubMed:8485129, PubMed:8639494, PubMed:9265618, PubMed:9398308, PubMed:4994926). Can also hydrate cyanamide to urea (PubMed:10550681, PubMed:11015219). Stimulates the chloride-bicarbonate exchange activity of SLC26A6 (PubMed:15990874). Essential for bone resorption and osteoclast differentiation (PubMed:15300855). Involved in the regulation of fluid secretion into the anterior chamber of the eye. Contributes to intracellular pH regulation in the duodenal upper villous epithelium during proton-coupled peptide absorption",
+  "sequence_length": 260,
+  "success": true,
+  "error": ""
+}

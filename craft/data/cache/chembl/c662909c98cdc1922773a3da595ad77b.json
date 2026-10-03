@@ -1,0 +1,14 @@
+{
+  "chembl_id": "CHEMBL3717",
+  "uniprot_id": "P08581",
+  "gene_name": "MET",
+  "target_name": "Hepatocyte growth factor receptor",
+  "target_type": "SINGLE PROTEIN",
+  "organism": "Homo sapiens",
+  "target_class_l1": "",
+  "target_class_l2": "",
+  "approved_drug_count": 0,
+  "bioactivity_count": 0,
+  "success": true,
+  "error": ""
+}
